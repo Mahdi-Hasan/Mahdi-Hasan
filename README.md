@@ -1,5 +1,5 @@
-<h1 align="center">Assalamu Alaikum Wa Rahmatullah, I'm Mehedi Hasan</h1>
-<p align="center">A passionate software engineer driven by a strong ownership mentality and natural leadership ability. Has also
+<h3 align="center">Assalamu Alaikum Wa Rahmatullah, I'm Mehedi Hasan</h1>
+<p align="center">A passionate software engineer driven by a strong <strong>ownership</strong> mentality and <strong>natural leadership</strong> ability. Has also
 demonstrated expertise in <strong>C#</strong> and <strong>OOP</strong>, placing among
 the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.</p>
 
@@ -10,11 +10,11 @@ the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.
 
 - 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
-- 🌱 Experienced in Solving your business problem for around 3 years. 
+- 🌱 Experienced in Solving your business problem for around **3 years**. 
 
-- 🤝 Eager to take on contributions and freelance assignments.
+- 🤝 Eager to take on any sort of contributions and freelance assignments.
 
-- 🍉 Currently learning to create highly scalable applications for your business using modern approaches like Domain-Driven Design and Microservices.
+- 🍉 Currently learning to create highly scalable applications for your business using modern approaches like **Domain-Driven Design & Microservices**.
   
 - 📝 Regularly share my learnings on my [linkedin](https://www.linkedin.com/in/mehedihasansust/)
 
