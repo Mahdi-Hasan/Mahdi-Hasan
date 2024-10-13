@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h1 align="center">Assalamu Alaikum Wa Rahmatullah, I'm Mehedi Hasan</h1>
 <p align="center">A passionate software engineer driven by a strong ownership mentality and natural leadership ability. Has also
 demonstrated expertise in <strong>C#</strong> and <strong>OOP</strong>, placing among
 the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.</p>
