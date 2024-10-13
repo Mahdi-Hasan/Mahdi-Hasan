@@ -1,16 +1,40 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/mehedihasansust)
-[![Resume Badge](https://img.shields.io/badge/-Resume-informational?style=flat&logo=&logoColor=white&color=0D76A8)](https://drive.google.com/file/d/1lhsFRZrdf5uZbBBevBY9-ShVfsrlGRBj/view?usp=sharing)
-[![Email Badge](https://img.shields.io/badge/Email-mehedi.swe0@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<p align="center">A passionate software engineer driven by a strong ownership mentality and natural leadership ability. Has also
+demonstrated expertise in  <span style="font-weight: bold;">C# </span>and  <span style="font-weight: bold;">OOP</span>, placing among
+the  <span style="font-weight: bold;"> top 5% of 1 million</span>  LinkedIn skill assessment participants.</p> <br/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<h3> 👨🏻‍💻 About Me </h3>
+- 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
-- 🔭 &nbsp; Currently learning Kubernetes, AWS, Terraform, Jenkins, Tsung
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and back-end web development.
-- 🌱 &nbsp; Enthusiast in Deep Learning.
-- ✍️ &nbsp; Playing Cricket, Football, Riding cycle, Walking
+- 🌱 Experienced in Solving your business problem for around 3 years. 
 
+- 🤝 Eager to take on contributions and freelance assignments.
+
+- 🍉 Currently learning to create highly scalable applications for your business using modern approaches like Domain-Driven Design and Microservices.
+  
+- 📝 Regularly share my learnings on my [linkedin](https://www.linkedin.com/in/mehedihasansust/)
+
+- 💬 May Ask me about **OOP & .NET**
+
+- 📫 Reach me **mehedi.swe0@gmail.com**
+- 
+- 📜 Find the [Resume](https://drive.google.com/file/d/1lhsFRZrdf5uZbBBevBY9-ShVfsrlGRBj/view?usp=sharing) of your most awaited individual. 
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mehedihasansust/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mahdi-Hasan">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+   
+</p>
+[![Resume Badge](https://img.shields.io/badge/-Resume-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 <!--  GitHub Stats -->
 
 <h2>
@@ -32,20 +56,4 @@
   <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20">
   Skills
 </h2>
-
-![Docker](https://img.shields.io/badge/docker-4AB197.svg?style=flat&logo=docker&logoColor=white&labelColor=grey)
-![CI/CS](https://img.shields.io/badge/kubernetes-4AB197.svg?style=flat&logo=kubernetes&logoColor=white&labelColor=grey)
-![JavaScript](https://img.shields.io/badge/-JavaScript-4AB197?style=flat&logo=javascript&logoColor=white&labelColor=grey)
-![bootstrap](https://img.shields.io/badge/-bootstrap-4AB197?style=flat&logo=bootstrap&logoColor=white&labelColor=grey)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-4AB197?flat&logo=mongodb&logoColor=white&labelColor=grey)
-![firebase](https://img.shields.io/badge/-firebase-4AB197?style=flat&logo=firebase&logoColor=white&labelColor=grey)
-![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
-![github](https://img.shields.io/badge/-github-4AB197?style=flat&logo=github&logoColor=white&labelColor=grey)
-<br>
-![python](https://img.shields.io/badge/-python-4AB197?style=flate&logo=python&logoColor=white&labelColor=grey)
-![Java](https://img.shields.io/badge/-java-4AB197?style=flate&logo=java&logoColor=white&labelColor=grey)
-![C](https://img.shields.io/badge/-c-grey?4AB197=flat&logo=c&logoColor=white&labelColor=grey)
-![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
-
 
