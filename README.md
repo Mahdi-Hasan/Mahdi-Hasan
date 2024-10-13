@@ -21,7 +21,7 @@ the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.
 - 💬 May Ask me about **OOP & .NET**
 
 - 📫 Reach me **mehedi.swe0@gmail.com**
-- 
+  
 - 📜 Find the [Resume](https://drive.google.com/file/d/1lhsFRZrdf5uZbBBevBY9-ShVfsrlGRBj/view?usp=sharing) of your most awaited individual. 
 
 <br/>
@@ -36,7 +36,6 @@ the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
    
 </p>
-[![Resume Badge](https://img.shields.io/badge/-Resume-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 <!--  GitHub Stats -->
 
 <h2>
@@ -52,10 +51,4 @@ the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.
 <a href="https://github.com/Mahdi-Hasan">
   <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Hasan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="mhRumi's GitHub Stats" />
 </a>
-
-<!-- Skills -->
-<h2>
-  <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20">
-  Skills
-</h2>
 
