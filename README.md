@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <p align="center">A passionate software engineer driven by a strong ownership mentality and natural leadership ability. Has also
-demonstrated expertise in  <span style="font-weight: bold;">C# </span>and  <span style="font-weight: bold;">OOP</span>, placing among
-the  <span style="font-weight: bold;"> top 5% of 1 million</span>  LinkedIn skill assessment participants.</p> <br/>
+demonstrated expertise in <strong>C#</strong> and <strong>OOP</strong>, placing among
+the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.</p>
+
+<br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
