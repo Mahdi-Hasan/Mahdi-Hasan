@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 📫 Ranked in the **top 5%** of **1 million** participants in a LinkedIn **C#** and **OOP** skill assessment..
+- 📫 Ranked in the **top 5%** of **1 million** participants in LinkedIn **C#** and **OOP** skill assessments..
   
 - 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
