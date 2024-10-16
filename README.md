@@ -7,7 +7,7 @@ the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+- Demonstrated expertise in **C#** and **OOP**, placing among the **top 5% of 1 million** LinkedIn skill assessment participants.
 - 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
 - 🌱 Experienced in Solving your business problem for around **3 years**. 
