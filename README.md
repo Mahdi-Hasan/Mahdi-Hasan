@@ -1,13 +1,13 @@
 <h3 align="center">Assalamu Alaikum Wa Rahmatullah, I'm Mehedi Hasan</h1>
-<p align="center">A passionate software engineer driven by a strong <strong>ownership</strong> mentality and <strong>natural leadership</strong> ability. Has also
-demonstrated expertise in <strong>C#</strong> and <strong>OOP</strong>, placing among
-the <strong>top 5% of 1 million</strong> LinkedIn skill assessment participants.</p>
+<p align="center">A passionate software engineer driven by a strong <strong>ownership</strong> mentality and <strong>natural leadership</strong> ability.</p>
 
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- Demonstrated expertise in **C#** and **OOP**, placing among the **top 5% of 1 million** LinkedIn skill assessment participants.
+
+- 📫 Demonstrated expertise in **C#** and **OOP**, placing among the **top 5% of 1 million** LinkedIn skill assessment participants.
+  
 - 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
 
 - 🌱 Experienced in Solving your business problem for around **3 years**. 
