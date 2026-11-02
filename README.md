@@ -7,9 +7,9 @@
 I build production LLM agents and the back ends behind them, for healthcare and enterprise teams where mistakes are costly.
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-m--hasan--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mehedihasan.tech@outlook.com"><img src="https://img.shields.io/badge/Email-mehedihasan.tech-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-m.hasan.pro1%40gmail.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <a href="https://huggingface.co/MahdiSUST/mt5-large-bn_sum_total_data"><img src="https://img.shields.io/badge/Hugging_Face-MahdiSUST-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://drive.google.com/file/d/1cwb7LGNZRISL5Nzq2RPNyzvSZ1ehEe02/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1xTqFQoLpLsxBPHjFRH0iulZ7DL1yy0Se/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 
 </div>
 
@@ -102,6 +102,67 @@ Status badges update live from GitHub.
 
 ## 🚀 Featured projects
 
+### ☁️ At CloudApper AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Legacy → CloudApper Transform
+*Multi-agent code modernization*
+
+- A **Director** agent leads 4 domain **Supervisors** and specialist agents.
+- Reads legacy **COBOL, PL/I, RPG, VB6 and Delphi** codebases.
+- Produces validated SRS and requirement models for the rebuild.
+- I surveyed DeepWiki, Sourcegraph Cody, AWS Transform, IBM ADDI and EPAM ART to shape the design.
+
+`.NET 10` `Python` `Kafka` `LiteLLM` `GCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Secure multi-tenant MCP agent platform
+*Agent safety · red-teaming*
+
+- Red-teamed for prompt injection, tool-result poisoning and cross-tenant access.
+- Findings led to sandbox isolation and approval gates on destructive tool calls.
+- Read-only DB fallback, query sandboxing and workload identity federation.
+- Agent code runs in **gVisor** containers with allowlisted tools.
+
+`MCP` `gVisor` `Microsoft Agent Framework` `GCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Dynamic agent engine & A2A swarm
+*Agentic workflows · HIPAA, SOC 2, GDPR*
+
+- Spawns agents on demand, each with its own skills and least-privilege tools.
+- Failed tasks retry, then go to a human.
+- Agents work together over the **A2A** protocol.
+- Tool wrappers limit the blast radius of any one agent.
+
+`Microsoft Agent Framework` `A2A` `MCP` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 Enterprise document pipeline
+*Human-in-the-loop extraction*
+
+- **Gemini**-based extraction of fields from enterprise documents.
+- Human review gate before any result is saved.
+
+`Gemini` `Python` `GCP`
+
+</td>
+</tr>
+</table>
+
+### 🧪 Earlier work & side projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -187,20 +248,41 @@ Status badges update live from GitHub.
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,ts,fastapi,nextjs,react,postgres,redis,rabbitmq,kafka&perline=11" alt="Languages and back end"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,githubactions,terraform,grafana,pytorch&perline=9" alt="Cloud and DevOps"/>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,cpp,go,html,css,bash" alt="Languages"/>
+  <br/><br/>
+  <b>Back end & front end</b><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,nextjs,react,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
+  <br/><br/>
+  <b>Data, AI & ML</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pytorch" alt="Data and AI"/>
+  <br/><br/>
+  <b>Cloud & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab,jenkins,grafana,linux" alt="Cloud and DevOps"/>
+  <br/><br/>
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel" alt="Tools"/>
 </p>
 
 | Area | Tools |
 |:--|:--|
-| **Agentic AI** | Microsoft Agent Framework, LangGraph, LangChain, MCP, A2A, LiteLLM |
-| **LLM & RAG** | Azure OpenAI, Gemini, Hugging Face, embeddings, OpenSearch, Milvus, vector DBs |
-| **AI safety & evals** | Approval gates, least-privilege tools, red-teaming, LLM-as-a-Judge, golden datasets, Langfuse |
-| **Back end** | ASP.NET Core, FastAPI, gRPC, YARP, RabbitMQ, Kafka, Clean Architecture, CQRS, DDD |
-| **Data** | PostgreSQL, SQL Server, Redis, MongoDB, Neo4j |
-| **Testing** | xUnit, NUnit, Moq, pytest, k6, OpenTelemetry |
-| **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, HIPAA, SOC 2, GDPR |
+| **Agent frameworks** | Microsoft Agent Framework, LangGraph, LangChain (Python & C#), LiteLLM gateway (routing, fallback, caching) |
+| **Agent protocols** | MCP (servers, tool tiers, deferred tool loading), A2A |
+| **LLMs** | Azure OpenAI, Gemini, Claude, Hugging Face Transformers, mT5, PyTorch |
+| **RAG & search** | Embeddings, hybrid search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, auto SQL generation |
+| **Document AI** | Azure Document Intelligence, OCR, Gemini extraction |
+| **AI safety & evals** | Approval gates, least-privilege tools, gVisor sandboxes, red-teaming, PHI scanners, LLM-as-a-Judge, golden datasets |
+| **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
+| **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire |
+| **Python** | FastAPI, Pydantic v2, pytest, pytest-asyncio, Jupyter |
+| **Front end** | Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
+| **Messaging** | RabbitMQ, Kafka, event-driven systems |
+| **Databases** | PostgreSQL, SQL Server, MongoDB, Redis, Upstash |
+| **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
+| **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
+| **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
+| **Testing** | xUnit, NUnit, Moq, TDD, pytest, k6 load testing, contract tests |
+| **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
 
 ---
 
@@ -222,7 +304,7 @@ Status badges update live from GitHub.
 Open to roles in **agentic AI**, **AI platform** and **.NET / Python back-end** engineering.
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mehedihasan.tech@outlook.com"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Mahdi-Hasan&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views"/>
 
