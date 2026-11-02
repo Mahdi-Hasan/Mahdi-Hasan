@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum%2C+I'm+Mehedi+Hasan;Software+Engineer+%26+AI+Architect;Agentic+AI+%E2%80%A2+LLM+Safety+%E2%80%A2+.NET+%26+Python;I+build+AI+agents+that+are+safe+to+ship" alt="Typing intro" />
 
-**Software Engineer & AI Architect at [CloudApper AI](https://www.cloudapper.ai) · 5+ years**
+**Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai) · 5+ years -- Ex [Vivasoft](https://vivasoftltd.com/)**
 <br/>
 I build production LLM agents and the back ends behind them, for healthcare and enterprise teams where mistakes are costly.
 
