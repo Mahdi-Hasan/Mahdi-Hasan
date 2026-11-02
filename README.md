@@ -8,7 +8,7 @@
 
 - 📫 Ranked in the **top 5%** of **1 million** participants in LinkedIn **C#** and **OOP** skill assessments..
   
-- 🔭 Currently working in <a href="https://www.vivasoftltd.com/" target="blank">Vivasoft Limited</a>
+- 🔭 Currently working in <a href="https://www.cloudapper.ai" target="blank">Cloudapper Ai</a>
 
 - 🌱 Experienced in Solving your business problem for around **3 years**. 
 
@@ -16,7 +16,7 @@
 
 - 🍉 Currently learning to create highly scalable applications for your business using modern approaches like **Domain-Driven Design & Microservices**.
   
-- 📝 Regularly share my learnings on my [linkedin](https://www.linkedin.com/in/mehedihasansust/)
+- 📝 Regularly share my learnings on my [linkedin](https://www.linkedin.com/in/m-hasan-ai/)
 
 - 💬 May Ask me about **OOP & .NET**
 
