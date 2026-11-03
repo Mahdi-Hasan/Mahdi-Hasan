@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 28 PRs, including Microsoft and JetBrains.
+- 🌍 **Open source:** 32 PRs, including Microsoft and JetBrains.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**.
 
 ### 🤖 AI I've shipped
@@ -53,9 +53,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="28 pull requests · 11 projects · 70K+ stars on the largest repo · Microsoft and JetBrains"/>
+<img src="assets/oss.svg" width="100%" alt="32 pull requests · 12 projects · 110K+ stars on the largest repo · Microsoft and JetBrains"/>
 
-<sub>PR status badges below update live from GitHub. 🚧 = fix is pushed and the PR is in review prep.</sub>
+<sub>PR status badges below update live from GitHub.</sub>
 
 ### 🤖 AI agents & LLM frameworks
 
@@ -74,10 +74,10 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 | Project | What I fixed | PR |
 |:--|:--|:--|
-| [**stablyai/orca**](https://github.com/stablyai/orca) <br/> ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85) | **Sidebar:** a new bindable command collapses or expands every project at once. Before, each chevron had to be clicked. | [🚧 #37485](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:feat/sidebar-collapse-all-projects) |
-| | **Jira:** several connected sites all showed the same profile name. Each site now shows its host, like `Ada (acme.atlassian.net)`. | [🚧 #37435](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:fix/jira-site-unique-names) |
-| | **Mobile:** "Jump back in" rows showed only the branch, so two `main` rows looked the same. The repo name now shows on every row. | [🚧 #37642](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:fix/mobile-jump-back-in-project-name) |
-| | **Browser:** an opt-in setting loads terminal links in the open browser tab instead of a new split pane. | [🚧 #37592](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:feat/terminal-links-reuse-browser-tab) |
+| [**stablyai/orca**](https://github.com/stablyai/orca) <br/> ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85) | **Sidebar:** a new bindable command collapses or expands every project at once. Before, each chevron had to be clicked. | [![#37718](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37718?label=%2337718&style=flat-square)](https://github.com/stablyai/orca/pull/37718) |
+| | **Jira:** several connected sites all showed the same profile name. Each site now shows its host, like `Ada (acme.atlassian.net)`. | [![#37719](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37719?label=%2337719&style=flat-square)](https://github.com/stablyai/orca/pull/37719) |
+| | **Mobile:** "Jump back in" rows showed only the branch, so two `main` rows looked the same. The repo name now shows on every row. | [![#37720](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37720?label=%2337720&style=flat-square)](https://github.com/stablyai/orca/pull/37720) |
+| | **Browser:** an opt-in setting loads terminal links in the open browser tab instead of a new split pane. | [![#37721](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37721?label=%2337721&style=flat-square)](https://github.com/stablyai/orca/pull/37721) |
 | [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) <br/> ![stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85) | **Windows:** "Reveal in file manager" opened Explorer in a hidden window, with no error. The folder window now shows. | [![#1158](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1158) |
 | | **Performance:** editor lookup scanned a slow WSL `PATH` on the event loop and froze the host for seconds. It now pre-filters folders with async `readdir`. | [![#1159](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1159) |
 | [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
