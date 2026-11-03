@@ -348,11 +348,12 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="30" alt=""/> Recognition & learning
 
-- 🧭 **Becoming an AI-native Product Manager** and **Product Judgment**, Pendo Learning Lab (Nov 2026).
+- 🧭 Pendo Learning Lab (Nov 2026): [**Becoming an AI-native Product Manager**](https://www.pendo.io/learninglab/certificates/cmvyyltxs000cq64c5qzalz4g/) · [**Product Judgment**](https://www.pendo.io/learninglab/certificates/cmw0itewa004gkywetcml0zf6/).
 - 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python, GenAI and back-end deployment.
-- 🎓 **Aspire Leadership Program**, Harvard University.
+- 🎓 [**Aspire Leadership Program**](https://drive.google.com/file/d/1836Fgx13BXbNsYErA7sAx6kPOKhXy4DN/view), Harvard University.
 - 🏆 **Top 5%** in C# and OOP on LinkedIn (1M+ people).
-- 📜 HackerRank: Problem Solving, C#, SQL, Java · Docker & Jenkins (KodeKloud) · Machine Learning (Coursera).
+- 📜 HackerRank: [Problem Solving](https://www.hackerrank.com/certificates/c56b8408349b), [C#](https://www.hackerrank.com/certificates/21710c0c955f), [SQL](https://www.hackerrank.com/certificates/f413dcaa251d), [Java](https://www.hackerrank.com/certificates/7f5de9e7e0d4).
+- 📜 KodeKloud: [Docker](https://kodekloud.com/certificate-verification/7EF9C7B998-7EF3C332F6-7EF394A94A/), [Jenkins](https://drive.google.com/file/d/1DMVS-fiFjnd_6DKDFaQElLxeH1MKb52e/view) · Coursera: [Machine Learning](https://www.coursera.org/account/accomplishments/verify/LCPY8SYJH3ZW).
 - 🧩 **800+** problems solved on online judges.
 - 🎓 **B.Sc. in Software Engineering**, Shahjalal University of Science & Technology (CGPA 3.61 / 4.00).
 
