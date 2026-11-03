@@ -45,31 +45,17 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ### 🏢 Domains
 
-<img src="https://img.shields.io/badge/HR_%26_Payroll-4F46E5?style=for-the-badge" alt="HR & Payroll"/>
-<img src="https://img.shields.io/badge/Healthcare_·_HIPAA-0EA5E9?style=for-the-badge" alt="Healthcare, HIPAA"/>
-<img src="https://img.shields.io/badge/Finance_Ops-10B981?style=for-the-badge" alt="Finance Ops"/>
-<img src="https://img.shields.io/badge/No--code_Platforms-8B5CF6?style=for-the-badge" alt="No-code Platforms"/>
-<img src="https://img.shields.io/badge/Legacy_Modernization-F59E0B?style=for-the-badge" alt="Legacy Modernization"/>
-<img src="https://img.shields.io/badge/Identity_%26_Security-EF4444?style=for-the-badge" alt="Identity & Security"/>
+<img src="https://img.shields.io/badge/HR_%26_Payroll-4F46E5?style=for-the-badge" alt="HR & Payroll"/> <img src="https://img.shields.io/badge/Healthcare_·_HIPAA-0EA5E9?style=for-the-badge" alt="Healthcare, HIPAA"/> <img src="https://img.shields.io/badge/Finance_Ops-10B981?style=for-the-badge" alt="Finance Ops"/> <img src="https://img.shields.io/badge/No--code_Platforms-8B5CF6?style=for-the-badge" alt="No-code Platforms"/> <img src="https://img.shields.io/badge/Legacy_Modernization-F59E0B?style=for-the-badge" alt="Legacy Modernization"/> <img src="https://img.shields.io/badge/Identity_%26_Security-EF4444?style=for-the-badge" alt="Identity & Security"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" alt=""/> Impact in numbers
 
-<table>
-<tr>
-<td align="center" width="33%"><h2>60K+</h2><sub>users on a central SSO service<br/>.NET · Redis</sub></td>
-<td align="center" width="33%"><h2>800+</h2><sub>companies on PIHR HR & payroll<br/>50,000+ users</sub></td>
-<td align="center" width="33%"><h2>~100K</h2><sub>invoices parsed at 90% accuracy<br/>3,000+ clients</sub></td>
-</tr>
-<tr>
-<td align="center" width="33%"><h2>20–30%</h2><sub>faster APIs<br/>caching · queues · SQL tuning</sub></td>
-<td align="center" width="33%"><h2>~2×</h2><sub>accuracy on Bangla summarization<br/>fine-tuned mT5</sub></td>
-<td align="center" width="33%"><h2>Top 5%</h2><sub>LinkedIn C# & OOP assessments<br/>1M+ people</sub></td>
-</tr>
-</table>
+<img src="assets/impact.svg" width="100%" alt="60K+ SSO users · 800+ companies on PIHR · ~100K invoices at 90% accuracy · 20–30% faster APIs · ~2× Bangla summarization accuracy · Top 5% LinkedIn C# &amp; OOP"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-**28 PRs across 11 projects** (4 merged so far), including Microsoft, JetBrains and repos with 70K+ stars. Status badges update live from GitHub.
+<img src="assets/oss.svg" width="100%" alt="28 pull requests · 11 projects · 70K+ stars on the largest repo · Microsoft and JetBrains"/>
+
+<sub>PR status badges below update live from GitHub.</sub>
 
 ### 🤖 AI agents & LLM frameworks
 
@@ -82,7 +68,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) (C#) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
 
-<details>
+<details open>
 <summary><b>🛠️ Developer tools · thinkrail, nanocoder, claude-buddy, Crow</b></summary>
 <br/>
 
@@ -97,7 +83,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </details>
 
-<details>
+<details open>
 <summary><b>🕌 Community & Islamic tech · quran.com, DeenTime, Ansari, Mihrab</b></summary>
 <br/>
 
@@ -128,7 +114,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </details>
 
-<details>
+<details open>
 <summary><b>Vivasoft Limited</b> — Software Engineer, .NET & AI · <i>Aug 2021 – May 2026</i></summary>
 <br/>
 
@@ -303,7 +289,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
   <img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,visualstudio,postman,vercel,pnpm,vitest" alt="Tools"/>
 </p>
 
-<details>
+<details open>
 <summary><b>Full tool list</b></summary>
 <br/>
 
