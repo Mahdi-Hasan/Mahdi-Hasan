@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum%2C+I'm+Mehedi+Hasan;Software+Engineer+%26+AI+Architect;Agentic+AI+%E2%80%A2+LLM+Safety+%E2%80%A2+.NET+%26+Python;I+build+AI+agents+that+are+safe+to+ship" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum%2C+I'm+Mehedi+Hasan;AI-Enabled+Product+Engineer;Business+problem+%E2%86%92+shipped+product;AI+where+it+pays+off%2C+safe+to+ship" alt="Typing intro" />
 
 **Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai) · 5+ years -- Ex [Vivasoft](https://vivasoftltd.com/)**
 <br/>
-I build production LLM agents and the full-stack apps around them, for healthcare and enterprise teams where mistakes are costly.
+I turn business problems into working products, with AI where it pays off. Mostly for healthcare and enterprise teams where mistakes are costly.
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-m--hasan--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-m.hasan.pro1%40gmail.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
@@ -17,13 +17,15 @@ I build production LLM agents and the full-stack apps around them, for healthcar
 
 ## 👋 About me
 
-- 🤖 **Now:** I design multi-agent systems at CloudApper AI with **Microsoft Agent Framework**, LangGraph, MCP and A2A.
-- 🛡️ **Focus:** agents that are safe to ship. Least-privilege tools, human approval gates, audit logs, red-teaming and LLM evals.
-- 🏗️ **Back end:** 5+ years of **C# / .NET** and **Python** microservices for HR, payroll and HIPAA healthcare platforms.
-- 🖥️ **Full stack:** I build the front ends too, with **React / Next.js**, **Angular** and **Vue**. I can take a feature from database to UI.
-- 🌍 **Open source:** 28 PRs to AI, developer-tool and Islamic-tech projects, including Microsoft and JetBrains. See the list below.
+I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
+
+- 🎯 **How I work:** learn the workflow and where it hurts. Pick the simplest tech that fixes it. Measure the result.
+- 🤖 **AI where it pays off:** agents, RAG and document AI that remove manual work. Approval gates and evals keep them safe in production.
+- 🏗️ **End to end:** 5+ years of **C# / .NET** and **Python** back ends, plus front ends in **React**, **Angular** and **Vue**.
+- 🏥 **Domains:** HR & payroll, healthcare (HIPAA), invoices and enterprise documents.
+- 🌍 **Open source:** 28 PRs to AI, developer-tool and Islamic-tech projects, including Microsoft and JetBrains.
 - 🎓 **Teaching:** Industry Expert & Mentor for the World Bank-backed **Edge Program**.
-- 💬 **Ask me about:** agent safety, RAG, LLM evaluation, .NET architecture, gRPC, full-stack web apps.
+- 💬 **Ask me about:** turning a manual workflow into an AI product, agent safety, RAG, .NET architecture.
 
 ## 📊 Impact in numbers
 
