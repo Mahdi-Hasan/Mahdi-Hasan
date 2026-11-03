@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:10B981&height=120&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:10B981&height=190&section=header&text=Mehedi%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI-Enabled%20Product%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Mehedi Hasan, AI-Enabled Product Engineer"/>
 
 <div align="center">
 
@@ -15,9 +15,9 @@ I turn business problems into working products, with AI where it pays off. Mostl
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 👋 About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt=""/> About me
 
 I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
 
@@ -42,7 +42,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 - 🎓 **Teaching:** Industry Expert & Mentor for the World Bank-backed **Edge Program**.
 - 💬 **Ask me about:** turning a manual workflow into an AI product, agent safety, RAG, .NET architecture.
 
-## 📊 Impact in numbers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" alt=""/> Impact in numbers
 
 | | |
 |:--|:--|
@@ -53,9 +53,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | 🧠 **~2×** accuracy | over earlier Bangla summarization models, with my fine-tuned mT5 |
 | 🏆 **Top 5%** | worldwide in LinkedIn C# and OOP assessments (1M+ people) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 🌍 Open-source contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="34" alt=""/> Open-source contributions
 
 **28 PRs across 11 projects** (4 merged so far), including Microsoft, JetBrains and repos with 70K+ stars. Status badges update live from GitHub.
 
@@ -91,9 +91,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**Ansari**](https://github.com/iaser-ai/ansari) | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
 | [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="34" alt=""/> Experience
 
 <details open>
 <summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Software Engineer & AI Architect · <i>Jun 2026 – Present</i></summary>
@@ -123,9 +123,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 🚀 Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt=""/> Featured projects
 
 ### ☁️ At CloudApper AI
 
@@ -268,9 +268,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 🧰 Tech stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="34" alt=""/> Tech stack
 
 <p align="center">
   <b>Languages</b><br/>
@@ -313,13 +313,15 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | 🧪 **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
 | 📜 **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 📈 GitHub activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="34" alt=""/> GitHub activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mahdi-Hasan&theme=tokyonight&hide_border=true&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED" alt="GitHub streak"/>
+
+<img src="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake-dark.svg"/>
@@ -329,9 +331,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
-## 🏅 Recognition & learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="34" alt=""/> Recognition & learning
 
 - 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python and back-end deployment.
 - 🎓 **Aspire Leadership Program**, Harvard University.
@@ -340,13 +342,15 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 - 🧩 **800+** problems solved on online judges.
 - 🎓 **B.Sc. in Software Engineering**, Shahjalal University of Science & Technology (CGPA 3.61 / 4.00).
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
 
 <div align="center">
 
-### 🤝 Let's talk
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" alt=""/> Let's talk
 
 Open to roles in **agentic AI**, **AI platform** and **.NET / Python back-end** engineering.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Got+a+manual+workflow%3F+Let's+automate+it.;From+business+problem+to+shipped+product.;Let's+build+something+useful+together!" alt="Let's talk"/>
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
@@ -355,4 +359,4 @@ Open to roles in **agentic AI**, **AI platform** and **.NET / Python back-end** 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:7C3AED&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:7C3AED&height=100&section=footer&animation=twinkling" width="100%" alt=""/>
