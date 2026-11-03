@@ -97,12 +97,14 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 <summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Software Engineer & AI Architect · <i>Jun 2026 – Present</i></summary>
 <br/>
 
-- Designed **tool-layer safety** for a hierarchical multi-agent system on Microsoft Agent Framework. Scoped tool wrappers, human approval on destructive actions, blast-radius limits.
+- Built an **AI app-builder copilot**. It plans and builds apps, forms, workflows and dashboards from a chat, then checks its own work. Serves its tools over **MCP** and calls external MCP servers with per-user auth. *(TypeScript, Fastify, Angular, Postgres, Redis)*
+- Built a **sandboxed code agent** on LangGraph. It writes and runs code in **gVisor / Firecracker** sandboxes, with human approval, web search and resumable runs. *(Python, FastAPI, Angular)*
+- Set up **multi-model routing** through a LiteLLM gateway across OpenAI and Claude. Reasoner and verifier models review risky changes. Prompt caching, context compaction and per-call cost tracking keep spend in check.
+- Designed **agent safety and quality gates**: scoped tool wrappers, approval on destructive actions, blast-radius limits, self-evaluation, policy guardrails and replay tests.
+- Built **AI connectors** for the no-code platform: RAG knowledge bases, semantic search, field extraction, media transcription and a code-agent plugin. *(.NET)*
 - Architected **Legacy → CloudApper Transform**. A Director agent, 4 domain Supervisors and specialist agents read COBOL, PL/I, RPG, VB6 and Delphi code. They produce validated SRS documents. *(.NET 10, Python, Kafka, LiteLLM, GCP)*
-- **Red-teamed** a multi-tenant MCP platform. Tested prompt injection, tool-result poisoning and cross-tenant access. Findings led to sandbox isolation and approval gates.
-- Built secure **MCP tool access**: read-only DB fallback, query sandboxing, workload identity. Code runs in **gVisor** containers with allowlisted tools.
-- Designed **A2A** multi-agent collaboration for HIPAA, SOC 2 and GDPR customers.
-- Built a dynamic agent engine. It spawns agents on demand with least-privilege tools, retries failures, then hands off to a human.
+- **Red-teamed** a multi-tenant MCP platform for prompt injection, tool-result poisoning and cross-tenant access. Findings led to sandbox isolation, read-only DB fallback, query sandboxing and workload identity.
+- Designed a **dynamic agent engine** on Microsoft Agent Framework, with **A2A** collaboration for HIPAA, SOC 2 and GDPR customers. Agents spawn with least-privilege tools, retry on failure, then hand off to a human.
 
 </details>
 
