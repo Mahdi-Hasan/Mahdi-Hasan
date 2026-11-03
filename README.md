@@ -1,45 +1,61 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mehedi%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI-Enabled%20Product%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Mehedi Hasan, AI-Enabled Product Engineer"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum%2C+I'm+Mehedi+Hasan;Software+Engineer+%26+AI+Architect;Agentic+AI+%E2%80%A2+LLM+Safety+%E2%80%A2+.NET+%26+Python;I+build+AI+agents+that+are+safe+to+ship" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=Assalamu+Alaikum+%F0%9F%91%8B;Business+problem+%E2%86%92+shipped+product;Agents+%E2%80%A2+Full+stack+%E2%80%A2+Safe+to+ship" alt="Typing intro"/>
 
-**Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai) · 5+ years -- Ex [Vivasoft](https://vivasoftltd.com/)**
-<br/>
-I build production LLM agents and the back ends behind them, for healthcare and enterprise teams where mistakes are costly.
+**Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai)** · 5+ years · ex [Vivasoft](https://vivasoftltd.com/)
 
-<a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-m--hasan--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-m.hasan.pro1%40gmail.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
-<a href="https://huggingface.co/MahdiSUST/mt5-large-bn_sum_total_data"><img src="https://img.shields.io/badge/Hugging_Face-MahdiSUST-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://drive.google.com/file/d/1xTqFQoLpLsxBPHjFRH0iulZ7DL1yy0Se/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://huggingface.co/MahdiSUST/mt5-large-bn_sum_total_data"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://drive.google.com/file/d/1xTqFQoLpLsxBPHjFRH0iulZ7DL1yy0Se/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 
 </div>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt=""/> About me
 
-## 👋 About me
+I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
 
-- 🤖 **Now:** I design multi-agent systems on **Microsoft Agent Framework**, LangGraph, MCP and A2A at CloudApper AI.
-- 🛡️ **Focus:** making agents safe to deploy. Least-privilege tools, human approval gates, audit logs, red-teaming and LLM evals.
-- 🏗️ **Background:** 5 years of **C# / .NET** and **Python** microservices for HR, payroll and HIPAA healthcare platforms.
-- 🌍 **Open source:** I send fixes to AI and developer-tool projects. See the list below.
-- 🎓 **Teaching:** Industry Expert & Mentor for the World Bank-backed **Edge Program**.
-- 💬 **Ask me about:** agent safety, RAG, LLM evaluation, .NET architecture, gRPC.
+- 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
+- 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
+- 🌍 **Open source:** 28 PRs, including Microsoft and JetBrains.
+- 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**.
 
-## 📊 Impact in numbers
+### 🤖 AI I've shipped
 
-| | |
-|:--|:--|
-| 🔐 **60,000+** users | on a central SSO service I built with .NET and Redis |
-| 🏢 **800+** companies · **50,000+** users | served by the PIHR HR & payroll microservices |
-| 📄 **~100K** invoices · **90%** accuracy | parsed by the Sybil document pipeline for 3,000+ clients |
-| ⚡ **~20–30%** faster | API responses after Redis caching, RabbitMQ jobs and SQL tuning |
-| 🧠 **~2×** accuracy | over earlier Bangla summarization models, with my fine-tuned mT5 |
-| 🏆 **Top 5%** | worldwide in LinkedIn C# and OOP assessments (1M+ people) |
+<table>
+<tr>
+<td width="50%">🧩 <b>Agentic copilots</b><br/><sub>Build apps, forms & workflows from chat · MCP server + client</sub></td>
+<td width="50%">🧪 <b>Code agents</b><br/><sub>LangGraph · runs code in gVisor / Firecracker sandboxes</sub></td>
+</tr>
+<tr>
+<td width="50%">📚 <b>RAG & memory</b><br/><sub>Embeddings · semantic search · knowledge-graph memory</sub></td>
+<td width="50%">🔀 <b>Multi-model routing</b><br/><sub>LiteLLM · OpenAI + Claude · reasoner & verifier models</sub></td>
+</tr>
+<tr>
+<td width="50%">🛡️ <b>Safety & evals</b><br/><sub>Guardrails · approval gates · replay tests · LLM-as-a-Judge</sub></td>
+<td width="50%">💸 <b>Cost & context</b><br/><sub>Prompt caching · context compaction · per-call cost tracking</sub></td>
+</tr>
+<tr>
+<td width="50%">📄 <b>Document & media AI</b><br/><sub>PDF & image vision · field extraction · transcription</sub></td>
+<td width="50%">🏛️ <b>Legacy modernization</b><br/><sub>Agents read COBOL, PL/I, RPG, VB6, Delphi → rebuild specs</sub></td>
+</tr>
+</table>
 
----
+### 🏢 Domains
 
-## 🌍 Open-source contributions
+<img src="https://img.shields.io/badge/HR_%26_Payroll-4F46E5?style=for-the-badge" alt="HR & Payroll"/> <img src="https://img.shields.io/badge/Healthcare_·_HIPAA-0EA5E9?style=for-the-badge" alt="Healthcare, HIPAA"/> <img src="https://img.shields.io/badge/Finance_Ops-10B981?style=for-the-badge" alt="Finance Ops"/> <img src="https://img.shields.io/badge/No--code_Platforms-8B5CF6?style=for-the-badge" alt="No-code Platforms"/> <img src="https://img.shields.io/badge/Legacy_Modernization-F59E0B?style=for-the-badge" alt="Legacy Modernization"/> <img src="https://img.shields.io/badge/Identity_%26_Security-EF4444?style=for-the-badge" alt="Identity & Security"/>
 
-**28 PRs across 11 projects** (4 merged so far), including Microsoft, JetBrains and repos with 70K+ stars. Status badges update live from GitHub.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" alt=""/> Impact in numbers
+
+<img src="assets/impact.svg" width="100%" alt="60K+ SSO users · 800+ companies on PIHR · ~100K invoices at 90% accuracy · 20–30% faster APIs · ~2× Bangla summarization accuracy · Top 5% LinkedIn C# &amp; OOP"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
+
+<img src="assets/oss.svg" width="100%" alt="28 pull requests · 11 projects · 70K+ stars on the largest repo · Microsoft and JetBrains"/>
+
+<sub>PR status badges below update live from GitHub.</sub>
 
 ### 🤖 AI agents & LLM frameworks
 
@@ -52,7 +68,9 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) (C#) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
 
-### 🛠️ Developer tools
+<details open>
+<summary><b>🛠️ Developer tools · thinkrail, nanocoder, claude-buddy, Crow</b></summary>
+<br/>
 
 | Project | What I fixed | PR |
 |:--|:--|:--|
@@ -63,7 +81,11 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
 | [**Pienteger/Crow**](https://github.com/Pienteger/Crow) (C#) | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
 
-### 🕌 Community & Islamic tech
+</details>
+
+<details open>
+<summary><b>🕌 Community & Islamic tech · quran.com, DeenTime, Ansari, Mihrab</b></summary>
+<br/>
 
 | Project | What I fixed | PR |
 |:--|:--|:--|
@@ -73,24 +95,26 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | [**Ansari**](https://github.com/iaser-ai/ansari) | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
 | [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
 
----
+</details>
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" alt=""/> Experience
 
 <details open>
 <summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Software Engineer & AI Architect · <i>Jun 2026 – Present</i></summary>
 <br/>
 
-- Designed **tool-layer safety** for a hierarchical multi-agent system on Microsoft Agent Framework. Scoped tool wrappers, human approval on destructive actions, blast-radius limits.
+- Built an **AI app-builder copilot**. It plans and builds apps, forms, workflows and dashboards from a chat, then checks its own work. Serves its tools over **MCP** and calls external MCP servers with per-user auth. *(TypeScript, Fastify, Angular, Postgres, Redis)*
+- Built a **sandboxed code agent** on LangGraph. It writes and runs code in **gVisor / Firecracker** sandboxes, with human approval, web search and resumable runs. *(Python, FastAPI, Angular)*
+- Set up **multi-model routing** through a LiteLLM gateway across OpenAI and Claude. Reasoner and verifier models review risky changes. Prompt caching, context compaction and per-call cost tracking keep spend in check.
+- Designed **agent safety and quality gates**: scoped tool wrappers, approval on destructive actions, blast-radius limits, self-evaluation, policy guardrails and replay tests.
+- Built **AI connectors** for the no-code platform: RAG knowledge bases, semantic search, field extraction, media transcription and a code-agent plugin. *(.NET)*
 - Architected **Legacy → CloudApper Transform**. A Director agent, 4 domain Supervisors and specialist agents read COBOL, PL/I, RPG, VB6 and Delphi code. They produce validated SRS documents. *(.NET 10, Python, Kafka, LiteLLM, GCP)*
-- **Red-teamed** a multi-tenant MCP platform. Tested prompt injection, tool-result poisoning and cross-tenant access. Findings led to sandbox isolation and approval gates.
-- Built secure **MCP tool access**: read-only DB fallback, query sandboxing, workload identity. Code runs in **gVisor** containers with allowlisted tools.
-- Designed **A2A** multi-agent collaboration for HIPAA, SOC 2 and GDPR customers.
-- Built a dynamic agent engine. It spawns agents on demand with least-privilege tools, retries failures, then hands off to a human.
+- **Red-teamed** a multi-tenant MCP platform for prompt injection, tool-result poisoning and cross-tenant access. Findings led to sandbox isolation, read-only DB fallback, query sandboxing and workload identity.
+- Designed a **dynamic agent engine** on Microsoft Agent Framework, with **A2A** collaboration for HIPAA, SOC 2 and GDPR customers. Agents spawn with least-privilege tools, retry on failure, then hand off to a human.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Vivasoft Limited</b> — Software Engineer, .NET & AI · <i>Aug 2021 – May 2026</i></summary>
 <br/>
 
@@ -103,9 +127,7 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 
 </details>
 
----
-
-## 🚀 Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt=""/> Featured projects
 
 ### ☁️ At CloudApper AI
 
@@ -248,50 +270,56 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 </tr>
 </table>
 
----
-
-## 🧰 Tech stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="30" alt=""/> Tech stack
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,cpp,go,html,css,bash" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=py,cs,ts,js,java,cpp,go,html,css,bash,powershell" alt="Languages"/>
   <br/><br/>
   <b>Back end & front end</b><br/>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,nextjs,react,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=dotnet,fastapi,nodejs,nextjs,react,angular,vue,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
   <br/><br/>
   <b>Data, AI & ML</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pytorch" alt="Data and AI"/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=postgres,sqlite,mongodb,redis,pytorch" alt="Data and AI"/>
   <br/><br/>
   <b>Cloud & DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab,jenkins,grafana,linux" alt="Cloud and DevOps"/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab,jenkins,grafana,linux" alt="Cloud and DevOps"/>
   <br/><br/>
   <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode,visualstudio,postman,vercel,pnpm,vitest" alt="Tools"/>
 </p>
+
+<details open>
+<summary><b>Full tool list</b></summary>
+<br/>
 
 | Area | Tools |
 |:--|:--|
-| **Agent frameworks** | Microsoft Agent Framework, LangGraph, LangChain (Python & C#), LiteLLM gateway (routing, fallback, caching) |
-| **Agent protocols** | MCP (servers, tool tiers, deferred tool loading), A2A |
-| **LLMs** | Azure OpenAI, Gemini, Claude, Hugging Face Transformers, mT5, PyTorch |
-| **RAG & search** | Embeddings, hybrid search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, auto SQL generation |
-| **Document AI** | Azure Document Intelligence, OCR, Gemini extraction |
-| **AI safety & evals** | Approval gates, least-privilege tools, gVisor sandboxes, red-teaming, PHI scanners, LLM-as-a-Judge, golden datasets |
-| **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
-| **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire |
-| **Python** | FastAPI, Pydantic v2, pytest, pytest-asyncio, Jupyter |
-| **Front end** | Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
-| **Messaging** | RabbitMQ, Kafka, event-driven systems |
-| **Databases** | PostgreSQL, SQL Server, MongoDB, Redis, Upstash |
-| **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
-| **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
-| **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
-| **Testing** | xUnit, NUnit, Moq, TDD, pytest, k6 load testing, contract tests |
-| **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
+| 🤖 **Agent frameworks** | Microsoft Agent Framework, LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
+| 🔌 **Agent protocols** | MCP (servers, clients, per-user auth, tool tiers, deferred tool loading), A2A |
+| 🧠 **LLMs** | OpenAI, Azure OpenAI, Claude, Gemini, Hugging Face Transformers, mT5, PyTorch |
+| ⚙️ **LLM ops** | LiteLLM gateway (routing, fallback, caching), multi-model tiers (reasoner, verifier), prompt caching, context compaction, token budgets, cost tracking, SSE streaming |
+| 🏃 **Agent runtime** | gVisor and Firecracker sandboxes, E2B, tool calling (parallel), human-in-the-loop approvals, resumable runs, thread memory, knowledge graphs, web search (Tavily) |
+| 🔎 **RAG & search** | Embeddings, hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
+| 📄 **Document & media AI** | Azure Document Intelligence, OCR, Gemini extraction, PDF and image vision, Office file parsing, audio and video transcription, structured output |
+| 🛡️ **AI safety & evals** | Approval gates, least-privilege tools, policy guardrails, red-teaming, PHI scanners, LLM-as-a-Judge, self-evaluation, replay tests, golden datasets |
+| 📡 **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
+| 🟣 **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire, plugin-based connectors |
+| 🐍 **Python** | FastAPI, Pydantic v2, LangGraph, SQLite, pytest, pytest-asyncio, Jupyter |
+| 🟩 **Node.js** | TypeScript, Fastify, Zod, pnpm, Turborepo, Vitest |
+| 🎨 **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
+| 📨 **Messaging** | RabbitMQ, Kafka, event-driven systems |
+| 🔗 **Integrations** | Gmail API, plugin connectors for no-code workflows |
+| 🗄️ **Databases** | PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Upstash |
+| ☁️ **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
+| 🚢 **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
+| 🏛️ **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
+| 🧪 **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
+| 📜 **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
 
----
+</details>
 
-## 🏅 Recognition & learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="30" alt=""/> Recognition & learning
 
 - 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python and back-end deployment.
 - 🎓 **Aspire Leadership Program**, Harvard University.
@@ -300,17 +328,17 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 - 🧩 **800+** problems solved on online judges.
 - 🎓 **B.Sc. in Software Engineering**, Shahjalal University of Science & Technology (CGPA 3.61 / 4.00).
 
----
-
 <div align="center">
 
-### 🤝 Let's talk
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" alt=""/> Let's talk
 
-Open to roles in **agentic AI**, **AI platform** and **.NET / Python back-end** engineering.
+Open to **AI product engineering**, **agentic AI** and **full-stack** roles.
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Mahdi-Hasan&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Mahdi-Hasan&style=flat-square&color=4F46E5&label=Profile+views" alt="Profile views"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=110&section=footer" width="100%" alt=""/>
