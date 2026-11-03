@@ -55,7 +55,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 <img src="assets/oss.svg" width="100%" alt="28 pull requests · 11 projects · 70K+ stars on the largest repo · Microsoft and JetBrains"/>
 
-<sub>PR status badges below update live from GitHub.</sub>
+<sub>PR status badges below update live from GitHub. 🚧 = fix is pushed and the PR is in review prep.</sub>
 
 ### 🤖 AI agents & LLM frameworks
 
@@ -69,11 +69,15 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) (C#) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
 
 <details open>
-<summary><b>🛠️ Developer tools · thinkrail, nanocoder, claude-buddy, Crow</b></summary>
+<summary><b>🛠️ Developer tools · orca, thinkrail, nanocoder, claude-buddy, Crow</b></summary>
 <br/>
 
 | Project | What I fixed | PR |
 |:--|:--|:--|
+| [**stablyai/orca**](https://github.com/stablyai/orca) <br/> ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85) | **Sidebar:** a new bindable command collapses or expands every project at once. Before, each chevron had to be clicked. | [🚧 #37485](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:feat/sidebar-collapse-all-projects) |
+| | **Jira:** several connected sites all showed the same profile name. Each site now shows its host, like `Ada (acme.atlassian.net)`. | [🚧 #37435](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:fix/jira-site-unique-names) |
+| | **Mobile:** "Jump back in" rows showed only the branch, so two `main` rows looked the same. The repo name now shows on every row. | [🚧 #37642](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:fix/mobile-jump-back-in-project-name) |
+| | **Browser:** an opt-in setting loads terminal links in the open browser tab instead of a new split pane. | [🚧 #37592](https://github.com/stablyai/orca/compare/main...Mahdi-Hasan:orca:feat/terminal-links-reuse-browser-tab) |
 | [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) <br/> ![stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85) | **Windows:** "Reveal in file manager" opened Explorer in a hidden window, with no error. The folder window now shows. | [![#1158](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1158) |
 | | **Performance:** editor lookup scanned a slow WSL `PATH` on the event loop and froze the host for seconds. It now pre-filters folders with async `readdir`. | [![#1159](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1159) |
 | [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
