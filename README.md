@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://huggingface.co/MahdiSUST/mt5-large-bn_sum_total_data"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://drive.google.com/file/d/1xTqFQoLpLsxBPHjFRH0iulZ7DL1yy0Se/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1MpxqFTe7IeGshDoHCmjBUD-4vN4C40mM/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 
 </div>
 
@@ -20,7 +20,8 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
 - 🌍 **Open source:** 32 PRs, including Microsoft and JetBrains.
-- 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**.
+- 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
+- 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
 ### 🤖 AI I've shipped
 
@@ -49,7 +50,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" alt=""/> Impact in numbers
 
-<img src="assets/impact.svg" width="100%" alt="60K+ SSO users · 800+ companies on PIHR · ~100K invoices at 90% accuracy · 20–30% faster APIs · ~2× Bangla summarization accuracy · Top 5% LinkedIn C# &amp; OOP"/>
+<img src="assets/impact.svg" width="100%" alt="60K+ SSO users · 800+ companies on PIHR · ~100K invoices at 90% accuracy · 70%+ less manual work · 20–30% faster APIs · zero PHI leaks · ~2× Bangla summarization accuracy · Top 5% LinkedIn C# &amp; OOP"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
@@ -104,30 +105,36 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" alt=""/> Experience
 
 <details open>
-<summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Software Engineer & AI Architect · <i>Jun 2026 – Present</i></summary>
+<summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Senior Software Engineer · <i>Jun 2026 – Present</i></summary>
 <br/>
 
 - Built an **AI app-builder copilot**. It plans and builds apps, forms, workflows and dashboards from a chat, then checks its own work. Serves its tools over **MCP** and calls external MCP servers with per-user auth. *(TypeScript, Fastify, Angular, Postgres, Redis)*
 - Built a **sandboxed code agent** on LangGraph. It writes and runs code in **gVisor / Firecracker** sandboxes, with human approval, web search and resumable runs. *(Python, FastAPI, Angular)*
 - Set up **multi-model routing** through a LiteLLM gateway across OpenAI and Claude. Reasoner and verifier models review risky changes. Prompt caching, context compaction and per-call cost tracking keep spend in check.
-- Designed **agent safety and quality gates**: scoped tool wrappers, approval on destructive actions, blast-radius limits, self-evaluation, policy guardrails and replay tests.
+- Building a **dynamic agent engine** in Python on the **Claude Agent SDK**, LangGraph and LiteLLM. It turns a plain instruction into an agent with its own skills, tools and code sandbox. A **router agent** picks the simplest path.
+- Added **per-user shared memory** across the Marketing, Lead Gen and Sales agents. Customer context carries from one agent to the next.
+- Shipped a **run-deliverables API** with SSE streaming and REST retrieval. Users see live progress, and dropped streams recover cleanly.
+- Moved agent permissions into the **tool layer**: pre-scoped tool wrappers and human approval on destructive actions. Also blast-radius limits, self-evaluation, policy guardrails and replay tests.
 - Built **AI connectors** for the no-code platform: RAG knowledge bases, semantic search, field extraction, media transcription and a code-agent plugin. *(.NET)*
 - Architected **Legacy → CloudApper Transform**. A Director agent, 4 domain Supervisors and specialist agents read COBOL, PL/I, RPG, VB6 and Delphi code. They produce validated SRS documents. *(.NET 10, Python, Kafka, LiteLLM, GCP)*
 - **Red-teamed** a multi-tenant MCP platform for prompt injection, tool-result poisoning and cross-tenant access. Findings led to sandbox isolation, read-only DB fallback, query sandboxing and workload identity.
-- Designed a **dynamic agent engine** on Microsoft Agent Framework, with **A2A** collaboration for HIPAA, SOC 2 and GDPR customers. Agents spawn with least-privilege tools, retry on failure, then hand off to a human.
+- Designed **A2A** agent swarms and serverless agents such as **OpenClaw** for HIPAA, SOC 2 and GDPR customers. Agents spawn with least-privilege tools, retry on failure, then hand off to a human.
 
 </details>
 
 <details open>
-<summary><b>Vivasoft Limited</b> — Software Engineer, .NET & AI · <i>Aug 2021 – May 2026</i></summary>
+<summary><b>Vivasoft Limited</b> — Software Engineer, Level 2 · <i>Aug 2021 – May 2026 (4 yrs 10 mos)</i></summary>
 <br/>
 
 - Built **AI agent microservices** with LLMs, RAG, auto SQL generation and vector DBs. They plug into C# .NET Core platforms via **gRPC**.
 - Engineered .NET Core microservices (SOA, Clean Architecture, CQRS) for healthcare and HR platforms.
+- Built **Python FastAPI** services and **Azure Functions ETL** pipelines. They turn messy documents and third-party data into clean records, with retries and clear errors.
+- Automated a workflow across several services, cutting **manual effort by over 70%**.
 - Built a central **SSO service** with Redis for **60K+ users**.
 - Built eval and test setups: golden datasets for LLM evals, k6 load tests, Grafana dashboards.
-- Cut latency **~20%** with Redis caching, RabbitMQ background jobs and SQL tuning.
+- Cut latency **~20%** with Redis caching and SQL tuning. RabbitMQ background jobs gave **30% faster responses**.
 - Ran CI/CD, Docker and Kubernetes (ACA/AKS) with least-privilege IAM.
+- Led small project teams and mentored juniors on agent orchestration and back-end design.
 
 </details>
 
@@ -170,12 +177,12 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 ### 🤖 Dynamic agent engine & A2A swarm
 *Agentic workflows · HIPAA, SOC 2, GDPR*
 
-- Spawns agents on demand, each with its own skills and least-privilege tools.
-- Failed tasks retry, then go to a human.
-- Agents work together over the **A2A** protocol.
-- Tool wrappers limit the blast radius of any one agent.
+- Turns a plain instruction into an agent with its own skills, tools and code sandbox.
+- A **router agent** picks the simplest path for each task.
+- **Per-user shared memory** links the Marketing, Lead Gen and Sales agents.
+- Agents work together over **A2A**. Failed tasks retry, then go to a human.
 
-`Microsoft Agent Framework` `A2A` `MCP` `Python`
+`Claude Agent SDK` `LangGraph` `LiteLLM` `A2A` `MCP` `Python`
 
 </td>
 <td width="50%" valign="top">
@@ -201,10 +208,11 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 ### 🩺 Sybil — Multi-agent healthcare AI
 *HIPAA-regulated · production*
 
-- 6 agents with **LangGraph** orchestration and **MCP** tools on ACA/AKS.
+- 6 agents with **LangGraph** orchestration and **MCP** tools, running on GKE.
 - **LiteLLM** gateway for routing, fallback and caching. Hybrid RAG on OpenSearch.
-- PHI scanners and calibrated **LLM-as-a-Judge**, traced with OpenTelemetry and Langfuse.
-- Document parsing at **90%** accuracy on ~100K invoices.
+- PHI scanners, calibrated **LLM-as-a-Judge** and canary rollouts gated by stats tests.
+- Every write goes to an RBAC Postgres audit store. **Zero PHI leaks**.
+- Document parsing at **90%** accuracy on ~100K invoices from 3,000+ clients.
 
 `Python` `LangGraph` `MCP` `.NET` `Azure Doc Intelligence`
 
@@ -216,8 +224,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - **.NET 10** services (Clean Architecture, CQRS, DDD) behind a **YARP** gateway.
 - Python **FastAPI** AI engine for embeddings and LLM inference, linked over gRPC.
+- **Next.js 15** front end in strict TypeScript, with server-first rendering.
 - Turns text and audio into tasks, expenses and summaries.
-- Tested with xUnit, Moq and pytest.
+- Unit, integration and contract tests (xUnit, Moq, pytest) in an **Nx** monorepo.
 
 `C#` `Python` `gRPC` `Next.js 15` `Kubernetes`
 
@@ -272,6 +281,19 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📘 SaaS-based AI guide
+
+- RAG product that turns uploaded documents into searchable product guides.
+- Parses uploads, embeds them with **Jina** and stores them in a vector DB and MongoDB.
+- Source files stay on Amazon S3.
+
+`Python` `FastAPI` `LangChain` `MongoDB` `S3`
+
+</td>
+</tr>
 </table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="30" alt=""/> Tech stack
@@ -299,12 +321,13 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 | Area | Tools |
 |:--|:--|
-| 🤖 **Agent frameworks** | Microsoft Agent Framework, LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
+| 🧑‍💻 **AI-native workflow** | Claude Code, custom Claude skills, MCP servers, AGENTS.md-driven repos, AI-assisted specs and code review |
+| 🤖 **Agent frameworks** | Claude Agent SDK, Microsoft Agent Framework, OpenClaw (serverless agents), LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
 | 🔌 **Agent protocols** | MCP (servers, clients, per-user auth, tool tiers, deferred tool loading), A2A |
 | 🧠 **LLMs** | OpenAI, Azure OpenAI, Claude, Gemini, Hugging Face Transformers, mT5, PyTorch |
 | ⚙️ **LLM ops** | LiteLLM gateway (routing, fallback, caching), multi-model tiers (reasoner, verifier), prompt caching, context compaction, token budgets, cost tracking, SSE streaming |
 | 🏃 **Agent runtime** | gVisor and Firecracker sandboxes, E2B, tool calling (parallel), human-in-the-loop approvals, resumable runs, thread memory, knowledge graphs, web search (Tavily) |
-| 🔎 **RAG & search** | Embeddings, hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
+| 🔎 **RAG & search** | Embeddings (Jina, OpenAI), hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
 | 📄 **Document & media AI** | Azure Document Intelligence, OCR, Gemini extraction, PDF and image vision, Office file parsing, audio and video transcription, structured output |
 | 🛡️ **AI safety & evals** | Approval gates, least-privilege tools, policy guardrails, red-teaming, PHI scanners, LLM-as-a-Judge, self-evaluation, replay tests, golden datasets |
 | 📡 **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
@@ -313,9 +336,9 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | 🟩 **Node.js** | TypeScript, Fastify, Zod, pnpm, Turborepo, Vitest |
 | 🎨 **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
 | 📨 **Messaging** | RabbitMQ, Kafka, event-driven systems |
-| 🔗 **Integrations** | Gmail API, plugin connectors for no-code workflows |
+| 🔗 **Integrations** | Webhooks, ETL batch and stream pipelines, partner data ingestion, Gmail API, no-code plugin connectors |
 | 🗄️ **Databases** | PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Upstash |
-| ☁️ **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
+| ☁️ **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS (S3), GCP (GKE), Vercel |
 | 🚢 **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
 | 🏛️ **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
 | 🧪 **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
@@ -325,7 +348,8 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="30" alt=""/> Recognition & learning
 
-- 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python and back-end deployment.
+- 🧭 **Becoming an AI-native Product Manager** and **Product Judgment**, Pendo Learning Lab (Nov 2026).
+- 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python, GenAI and back-end deployment.
 - 🎓 **Aspire Leadership Program**, Harvard University.
 - 🏆 **Top 5%** in C# and OOP on LinkedIn (1M+ people).
 - 📜 HackerRank: Problem Solving, C#, SQL, Java · Docker & Jenkins (KodeKloud) · Machine Learning (Coursera).
