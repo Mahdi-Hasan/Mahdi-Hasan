@@ -39,7 +39,7 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 
 ## 🌍 Open-source contributions
 
-**27 PRs across 10 projects**, including Microsoft, JetBrains and repos with 70K+ stars. Status badges update live from GitHub.
+**28 PRs across 11 projects** (4 merged so far), including Microsoft, JetBrains and repos with 70K+ stars. Status badges update live from GitHub.
 
 ### 🤖 AI agents & LLM frameworks
 
@@ -61,7 +61,7 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
 | | A VS Code manifest default hid the `defaultMode` setting. New sessions now start in the configured mode. | [![#1928](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1928?label=%231928&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1928) |
 | [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
-| [**Pienteger/Crow**](https://github.com/Pienteger/Crow) (C#) | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [#2–#5](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
+| [**Pienteger/Crow**](https://github.com/Pienteger/Crow) (C#) | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
 
 ### 🕌 Community & Islamic tech
 
@@ -70,6 +70,8 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | [**quran/quran.com-frontend-next**](https://github.com/quran/quran.com-frontend-next) <br/> ![stars](https://img.shields.io/github/stars/quran/quran.com-frontend-next?style=flat-square&label=%E2%98%85) | **Security:** `.env.example` turned off TLS checks by default. New setups now keep TLS verification on. | [![#3362](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3362?label=%233362&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3362) |
 | [**DeenTime**](https://github.com/Aaqibhafeezkhan/DeenTime) | The prayer-time engine gave `NaN` or times hours off. I restored the solar math and checked it against `adhan-js`. | [![#69](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/69?label=%2369&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/69) |
 | | Fixed three tests that failed on `main`. | [![#70](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/70?label=%2370&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/70) |
+| [**Ansari**](https://github.com/iaser-ai/ansari) | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
+| [**Mihrab**](https://github.com/MihrabHQ/Mihrab) | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
 
 ---
 
