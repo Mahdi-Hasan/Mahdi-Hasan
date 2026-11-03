@@ -29,7 +29,13 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
   - **Cost & context:** prompt caching, context compaction and per-call cost tracking.
   - **Document & media AI:** PDF and image understanding, field extraction, audio and video transcription.
 - 🏗️ **End to end:** 5+ years of **C# / .NET** and **Python** back ends, plus front ends in **React**, **Angular** and **Vue**.
-- 🏥 **Domains:** HR & payroll, healthcare (HIPAA), invoices and enterprise documents.
+- 🏢 **Domains I've built for:**
+  - **HR & payroll:** attendance, leave and payroll for multi-company SaaS.
+  - **Healthcare (HIPAA):** multi-agent workflows with PHI checks and audit trails.
+  - **Finance ops:** invoice and document parsing with a human review step.
+  - **No-code platforms:** an AI copilot that builds apps, forms and workflows from chat.
+  - **Legacy modernization:** agents that read COBOL, PL/I, RPG, VB6 and Delphi code and write the specs for a rebuild.
+  - **Identity & security:** central SSO, multi-tenant isolation and compliance (HIPAA, SOC 2, GDPR).
 - 🌍 **Open source:** 28 PRs to AI, developer-tool and Islamic-tech projects, including Microsoft and JetBrains.
 - 🎓 **Teaching:** Industry Expert & Mentor for the World Bank-backed **Edge Program**.
 - 💬 **Ask me about:** turning a manual workflow into an AI product, agent safety, RAG, .NET architecture.
