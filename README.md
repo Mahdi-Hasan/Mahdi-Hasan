@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:10B981&height=120&section=header" width="100%" alt=""/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum%2C+I'm+Mehedi+Hasan;AI-Enabled+Product+Engineer;Business+problem+%E2%86%92+shipped+product;AI+where+it+pays+off%2C+safe+to+ship" alt="Typing intro" />
@@ -289,27 +291,43 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 | Area | Tools |
 |:--|:--|
-| **Agent frameworks** | Microsoft Agent Framework, LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
-| **Agent protocols** | MCP (servers, clients, per-user auth, tool tiers, deferred tool loading), A2A |
-| **LLMs** | OpenAI, Azure OpenAI, Claude, Gemini, Hugging Face Transformers, mT5, PyTorch |
-| **LLM ops** | LiteLLM gateway (routing, fallback, caching), multi-model tiers (reasoner, verifier), prompt caching, context compaction, token budgets, cost tracking, SSE streaming |
-| **Agent runtime** | gVisor and Firecracker sandboxes, E2B, tool calling (parallel), human-in-the-loop approvals, resumable runs, thread memory, knowledge graphs, web search (Tavily) |
-| **RAG & search** | Embeddings, hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
-| **Document & media AI** | Azure Document Intelligence, OCR, Gemini extraction, PDF and image vision, Office file parsing, audio and video transcription, structured output |
-| **AI safety & evals** | Approval gates, least-privilege tools, policy guardrails, red-teaming, PHI scanners, LLM-as-a-Judge, self-evaluation, replay tests, golden datasets |
-| **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
-| **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire, plugin-based connectors |
-| **Python** | FastAPI, Pydantic v2, LangGraph, SQLite, pytest, pytest-asyncio, Jupyter |
-| **Node.js** | TypeScript, Fastify, Zod, pnpm, Turborepo, Vitest |
-| **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
-| **Messaging** | RabbitMQ, Kafka, event-driven systems |
-| **Integrations** | Gmail API, plugin connectors for no-code workflows |
-| **Databases** | PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Upstash |
-| **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
-| **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
-| **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
-| **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
-| **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
+| 🤖 **Agent frameworks** | Microsoft Agent Framework, LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
+| 🔌 **Agent protocols** | MCP (servers, clients, per-user auth, tool tiers, deferred tool loading), A2A |
+| 🧠 **LLMs** | OpenAI, Azure OpenAI, Claude, Gemini, Hugging Face Transformers, mT5, PyTorch |
+| ⚙️ **LLM ops** | LiteLLM gateway (routing, fallback, caching), multi-model tiers (reasoner, verifier), prompt caching, context compaction, token budgets, cost tracking, SSE streaming |
+| 🏃 **Agent runtime** | gVisor and Firecracker sandboxes, E2B, tool calling (parallel), human-in-the-loop approvals, resumable runs, thread memory, knowledge graphs, web search (Tavily) |
+| 🔎 **RAG & search** | Embeddings, hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
+| 📄 **Document & media AI** | Azure Document Intelligence, OCR, Gemini extraction, PDF and image vision, Office file parsing, audio and video transcription, structured output |
+| 🛡️ **AI safety & evals** | Approval gates, least-privilege tools, policy guardrails, red-teaming, PHI scanners, LLM-as-a-Judge, self-evaluation, replay tests, golden datasets |
+| 📡 **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
+| 🟣 **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire, plugin-based connectors |
+| 🐍 **Python** | FastAPI, Pydantic v2, LangGraph, SQLite, pytest, pytest-asyncio, Jupyter |
+| 🟩 **Node.js** | TypeScript, Fastify, Zod, pnpm, Turborepo, Vitest |
+| 🎨 **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
+| 📨 **Messaging** | RabbitMQ, Kafka, event-driven systems |
+| 🔗 **Integrations** | Gmail API, plugin connectors for no-code workflows |
+| 🗄️ **Databases** | PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Upstash |
+| ☁️ **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
+| 🚢 **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
+| 🏛️ **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
+| 🧪 **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
+| 📜 **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mahdi-Hasan&theme=tokyonight&hide_border=true&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED" alt="GitHub streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake.svg" alt="Contribution snake"/>
+</picture>
+
+</div>
 
 ---
 
@@ -336,3 +354,5 @@ Open to roles in **agentic AI**, **AI platform** and **.NET / Python back-end** 
 <img src="https://komarev.com/ghpvc/?username=Mahdi-Hasan&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:7C3AED&height=100&section=footer" width="100%" alt=""/>
