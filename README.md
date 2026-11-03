@@ -4,7 +4,7 @@
 
 **Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai) · 5+ years -- Ex [Vivasoft](https://vivasoftltd.com/)**
 <br/>
-I build production LLM agents and the back ends behind them, for healthcare and enterprise teams where mistakes are costly.
+I build production LLM agents and the full-stack apps around them, for healthcare and enterprise teams where mistakes are costly.
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-m--hasan--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-m.hasan.pro1%40gmail.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
@@ -17,12 +17,13 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 
 ## 👋 About me
 
-- 🤖 **Now:** I design multi-agent systems on **Microsoft Agent Framework**, LangGraph, MCP and A2A at CloudApper AI.
-- 🛡️ **Focus:** making agents safe to deploy. Least-privilege tools, human approval gates, audit logs, red-teaming and LLM evals.
-- 🏗️ **Background:** 5 years of **C# / .NET** and **Python** microservices for HR, payroll and HIPAA healthcare platforms.
-- 🌍 **Open source:** I send fixes to AI and developer-tool projects. See the list below.
+- 🤖 **Now:** I design multi-agent systems at CloudApper AI with **Microsoft Agent Framework**, LangGraph, MCP and A2A.
+- 🛡️ **Focus:** agents that are safe to ship. Least-privilege tools, human approval gates, audit logs, red-teaming and LLM evals.
+- 🏗️ **Back end:** 5+ years of **C# / .NET** and **Python** microservices for HR, payroll and HIPAA healthcare platforms.
+- 🖥️ **Full stack:** I build the front ends too, with **React / Next.js**, **Angular** and **Vue**. I can take a feature from database to UI.
+- 🌍 **Open source:** 28 PRs to AI, developer-tool and Islamic-tech projects, including Microsoft and JetBrains. See the list below.
 - 🎓 **Teaching:** Industry Expert & Mentor for the World Bank-backed **Edge Program**.
-- 💬 **Ask me about:** agent safety, RAG, LLM evaluation, .NET architecture, gRPC.
+- 💬 **Ask me about:** agent safety, RAG, LLM evaluation, .NET architecture, gRPC, full-stack web apps.
 
 ## 📊 Impact in numbers
 
@@ -257,7 +258,7 @@ I build production LLM agents and the back ends behind them, for healthcare and 
   <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,cpp,go,html,css,bash" alt="Languages"/>
   <br/><br/>
   <b>Back end & front end</b><br/>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,nextjs,react,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,nextjs,react,angular,vue,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
   <br/><br/>
   <b>Data, AI & ML</b><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pytorch" alt="Data and AI"/>
@@ -280,7 +281,7 @@ I build production LLM agents and the back ends behind them, for healthcare and 
 | **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
 | **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire |
 | **Python** | FastAPI, Pydantic v2, pytest, pytest-asyncio, Jupyter |
-| **Front end** | Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
+| **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
 | **Messaging** | RabbitMQ, Kafka, event-driven systems |
 | **Databases** | PostgreSQL, SQL Server, MongoDB, Redis, Upstash |
 | **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
