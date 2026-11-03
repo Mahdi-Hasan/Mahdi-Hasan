@@ -20,7 +20,14 @@ I turn business problems into working products, with AI where it pays off. Mostl
 I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
 
 - 🎯 **How I work:** learn the workflow and where it hurts. Pick the simplest tech that fixes it. Measure the result.
-- 🤖 **AI where it pays off:** agents, RAG and document AI that remove manual work. Approval gates and evals keep them safe in production.
+- 🤖 **AI where it pays off.** What I've shipped to production:
+  - **Agentic copilots** that plan and build apps, forms and workflows from a chat. Tool calling, MCP servers and MCP clients.
+  - **Code-execution agents** on LangGraph. They write and run code in **gVisor / Firecracker** sandboxes, with human approval and resumable runs.
+  - **RAG & memory:** knowledge bases, embeddings and semantic search, plus a knowledge graph as long-term agent memory.
+  - **Multi-model setups:** a LiteLLM gateway across OpenAI and Claude. Reasoner and verifier models check the main agent's work.
+  - **Safety & quality:** self-checks, policy guardrails, replay tests, evals and approval gates on risky actions.
+  - **Cost & context:** prompt caching, context compaction and per-call cost tracking.
+  - **Document & media AI:** PDF and image understanding, field extraction, audio and video transcription.
 - 🏗️ **End to end:** 5+ years of **C# / .NET** and **Python** back ends, plus front ends in **React**, **Angular** and **Vue**.
 - 🏥 **Domains:** HR & payroll, healthcare (HIPAA), invoices and enterprise documents.
 - 🌍 **Open source:** 28 PRs to AI, developer-tool and Islamic-tech projects, including Microsoft and JetBrains.
