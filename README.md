@@ -272,39 +272,43 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,cpp,go,html,css,bash" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,cpp,go,html,css,bash,powershell" alt="Languages"/>
   <br/><br/>
   <b>Back end & front end</b><br/>
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,nextjs,react,angular,vue,tailwind,vite,rabbitmq,kafka" alt="Back end and front end"/>
   <br/><br/>
   <b>Data, AI & ML</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pytorch" alt="Data and AI"/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,pytorch" alt="Data and AI"/>
   <br/><br/>
   <b>Cloud & DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,githubactions,gitlab,jenkins,grafana,linux" alt="Cloud and DevOps"/>
   <br/><br/>
   <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel,pnpm,vitest" alt="Tools"/>
 </p>
 
 | Area | Tools |
 |:--|:--|
-| **Agent frameworks** | Microsoft Agent Framework, LangGraph, LangChain (Python & C#), LiteLLM gateway (routing, fallback, caching) |
-| **Agent protocols** | MCP (servers, tool tiers, deferred tool loading), A2A |
-| **LLMs** | Azure OpenAI, Gemini, Claude, Hugging Face Transformers, mT5, PyTorch |
-| **RAG & search** | Embeddings, hybrid search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, auto SQL generation |
-| **Document AI** | Azure Document Intelligence, OCR, Gemini extraction |
-| **AI safety & evals** | Approval gates, least-privilege tools, gVisor sandboxes, red-teaming, PHI scanners, LLM-as-a-Judge, golden datasets |
+| **Agent frameworks** | Microsoft Agent Framework, LangGraph (checkpointers, interrupts), LangChain (Python & C#), OpenAI SDKs (Python, .NET), MCP TypeScript SDK |
+| **Agent protocols** | MCP (servers, clients, per-user auth, tool tiers, deferred tool loading), A2A |
+| **LLMs** | OpenAI, Azure OpenAI, Claude, Gemini, Hugging Face Transformers, mT5, PyTorch |
+| **LLM ops** | LiteLLM gateway (routing, fallback, caching), multi-model tiers (reasoner, verifier), prompt caching, context compaction, token budgets, cost tracking, SSE streaming |
+| **Agent runtime** | gVisor and Firecracker sandboxes, E2B, tool calling (parallel), human-in-the-loop approvals, resumable runs, thread memory, knowledge graphs, web search (Tavily) |
+| **RAG & search** | Embeddings, hybrid search, semantic search, OpenSearch, Solr, Milvus, vector DBs, Neo4j graph DB, Postgres full-text search, auto SQL generation |
+| **Document & media AI** | Azure Document Intelligence, OCR, Gemini extraction, PDF and image vision, Office file parsing, audio and video transcription, structured output |
+| **AI safety & evals** | Approval gates, least-privilege tools, policy guardrails, red-teaming, PHI scanners, LLM-as-a-Judge, self-evaluation, replay tests, golden datasets |
 | **Observability** | OpenTelemetry, Langfuse, Azure App Insights, Grafana |
-| **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire |
-| **Python** | FastAPI, Pydantic v2, pytest, pytest-asyncio, Jupyter |
+| **.NET** | ASP.NET Core, Web API, EF Core, Dapper, gRPC, YARP, Hangfire, plugin-based connectors |
+| **Python** | FastAPI, Pydantic v2, LangGraph, SQLite, pytest, pytest-asyncio, Jupyter |
+| **Node.js** | TypeScript, Fastify, Zod, pnpm, Turborepo, Vitest |
 | **Front end** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Nx monorepos |
 | **Messaging** | RabbitMQ, Kafka, event-driven systems |
-| **Databases** | PostgreSQL, SQL Server, MongoDB, Redis, Upstash |
+| **Integrations** | Gmail API, plugin connectors for no-code workflows |
+| **Databases** | PostgreSQL, SQL Server, SQLite, MongoDB, Redis, Upstash |
 | **Cloud** | Azure (ACA, AKS, Functions, App Insights), AWS, GCP, Vercel |
 | **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins |
 | **Architecture** | Microservices, SOA, Clean Architecture, CQRS, DDD, event-driven design |
-| **Testing** | xUnit, NUnit, Moq, TDD, pytest, k6 load testing, contract tests |
+| **Testing** | xUnit, NUnit, Moq, TDD, pytest, Vitest, k6 load testing, contract tests, LLM replay tests |
 | **Governance** | OWASP Top 10 for Agentic Apps, NIST AI RMF, EU AI Act, HIPAA, SOC 2, GDPR |
 
 ---
