@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 34 PRs, including Microsoft, JetBrains and healthcare AI (MONAI, OHIF).
+- 🌍 **Open source:** 39 PRs, including Microsoft, JetBrains and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="34 pull requests · 14 projects · 110K+ stars on the largest repo · Microsoft and JetBrains"/>
+<img src="assets/oss.svg" width="100%" alt="39 pull requests · 17 projects · 110K+ stars on the largest repo · Microsoft and JetBrains"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -75,6 +75,11 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 |:--|:--|:--|
 | [**Project-MONAI/MONAI**](https://github.com/Project-MONAI/MONAI) <br/> ![stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=flat-square&label=%E2%98%85) <br/> `Python` `PyTorch` `pandas` | **Data loading:** `CSVIterableDataset` with `shuffle=True` returned every item twice per epoch on stream sources. The unshuffled pass now runs only when shuffle is off. Added a regression test. | [![#9249](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9249?label=%239249&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9249) |
 | [**OHIF/Viewers**](https://github.com/OHIF/Viewers) <br/> ![stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `React` `Jest` `DICOM` | **DICOM viewer:** the segment stats card kept stale L/W values and eye state until re-hover. The React Compiler cached the service reads. The card now holds them in state and refreshes on `SEGMENTATION_MODIFIED`. | [![#6408](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6408?label=%236408&style=flat-square)](https://github.com/OHIF/Viewers/pull/6408) |
+| | **Docs:** the FocalLoss alpha docstrings did not describe per-class weights. They now match the merged behaviour. | [![#9251](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9251?label=%239251&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9251) |
+| | **Scrollbar:** an inactive viewport's scrollbar kept a white focus ring. It now takes focus only when keyboard navigation is on. | [![#6409](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6409?label=%236409&style=flat-square)](https://github.com/OHIF/Viewers/pull/6409) |
+| [**sunlabuiuc/PyHealth**](https://github.com/sunlabuiuc/PyHealth) <br/> ![stars](https://img.shields.io/github/stars/sunlabuiuc/PyHealth?style=flat-square&label=%E2%98%85) <br/> `Python` `ML` `EHR` | **StageNet:** nested visits longer than the fitted width were not truncated correctly. The processor now logs one warning per processor. | [![#1380](https://img.shields.io/github/pulls/detail/state/sunlabuiuc/PyHealth/1380?label=%231380&style=flat-square)](https://github.com/sunlabuiuc/PyHealth/pull/1380) |
+| [**ivmartel/dwv**](https://github.com/ivmartel/dwv) <br/> ![stars](https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `DICOM` | **Charset:** Korean DICOM strings coded as ISO 2022 IR 149 failed to decode. They now decode as EUC-KR. | [![#2370](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2370?label=%232370&style=flat-square)](https://github.com/ivmartel/dwv/pull/2370) |
+| [**openemr/openemr**](https://github.com/openemr/openemr) <br/> ![stars](https://img.shields.io/github/stars/openemr/openemr?style=flat-square&label=%E2%98%85) <br/> `PHP` `EHR` | **Errors:** HTTP error responses carried no useful body. They now send the status text, and exception detail only when error display is on. | [![#15026](https://img.shields.io/github/pulls/detail/state/openemr/openemr/15026?label=%2315026&style=flat-square)](https://github.com/openemr/openemr/pull/15026) |
 
 <details open>
 <summary><b>🛠️ Developer tools · orca, thinkrail, nanocoder, claude-buddy, Crow</b></summary>
