@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 32 PRs, including Microsoft and JetBrains.
+- 🌍 **Open source:** 34 PRs, including Microsoft, JetBrains and healthcare AI (MONAI, OHIF).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="32 pull requests · 12 projects · 110K+ stars on the largest repo · Microsoft and JetBrains"/>
+<img src="assets/oss.svg" width="100%" alt="34 pull requests · 14 projects · 110K+ stars on the largest repo · Microsoft and JetBrains"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -68,6 +68,13 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) <br/> ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) | Lesson prep broke on reasoning models when `<think>` blocks or prose wrapped the JSON. It now finds the JSON and retries once at the right effort level. | [![#2375](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2375) |
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) (C#) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
+
+### 🩺 Healthcare & medical imaging
+
+| Project | What I fixed | PR |
+|:--|:--|:--|
+| [**Project-MONAI/MONAI**](https://github.com/Project-MONAI/MONAI) <br/> ![stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=flat-square&label=%E2%98%85) | **Data loading:** `CSVIterableDataset` with `shuffle=True` returned every item twice per epoch on stream sources. The unshuffled pass now runs only when shuffle is off. Added a regression test. | [![#9249](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9249?label=%239249&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9249) |
+| [**OHIF/Viewers**](https://github.com/OHIF/Viewers) <br/> ![stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&label=%E2%98%85) | **DICOM viewer:** the segment stats card kept stale L/W values and eye state until re-hover. The React Compiler cached the service reads. The card now holds them in state and refreshes on `SEGMENTATION_MODIFIED`. | [![#6408](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6408?label=%236408&style=flat-square)](https://github.com/OHIF/Viewers/pull/6408) |
 
 <details open>
 <summary><b>🛠️ Developer tools · orca, thinkrail, nanocoder, claude-buddy, Crow</b></summary>
