@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 54 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 60 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="54 pull requests · 18 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
+<img src="assets/oss.svg" width="100%" alt="60 pull requests · 19 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -69,6 +69,12 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 |  | **Responses API:** strict gateways rejected `status` on replayed items such as `function_call`. It is now stripped from every item. | [![#2454](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2454) |
 |  | **Workspace:** a failed probe-file delete escaped the request. Cleanup is now best effort. | [![#2455](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2455?label=%232455&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2455) |
 |  | **Claude Code:** system prompts over 32K characters failed on Windows with a misleading "not found" error. Long prompts now go through a file. | [![#2456](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2456) |
+| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) <br/> ![stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=%E2%98%85) <br/> `Python` `pytest` | **Files:** expired-upload cleanup never called the provider's delete, because the lookup had already dropped expired entries. Expired files are now deleted. | [![#9109](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9109?label=%239109&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9109) |
+|  | **Telemetry:** strings, numbers and `None` at the depth limit became `repr()` strings. Primitives are now kept unchanged. | [![#9110](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9110?label=%239110&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9110) |
+|  | **A2A auth:** a comma inside a quoted `WWW-Authenticate` value split the challenge. Parsing now respects quotes and escapes. | [![#9111](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9111?label=%239111&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9111) |
+|  | **Planning:** replanned steps restarted at 1 and clashed with completed steps. Clashing steps are now renumbered. | [![#9136](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9136?label=%239136&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9136) |
+|  | **CLI:** after an upgrade, a cached yanked flag from the old version showed a false warning. The cache is now tied to the installed version. | [![#9137](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9137?label=%239137&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9137) |
+|  | **Executor:** every batch after a replan asked for another replan over failures already handled. Handled failures are now skipped. | [![#9138](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9138?label=%239138&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9138) |
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) <br/> `Python` `ComfyUI` `FFmpeg` | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) <br/> `C#` `.NET` `RAG` | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
 
