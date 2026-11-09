@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 60 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 70 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="60 pull requests · 19 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
+<img src="assets/oss.svg" width="100%" alt="70 pull requests · 21 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -65,6 +65,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**microsoft/agent-framework**](https://github.com/microsoft/agent-framework) <br/> ![stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85) <br/> `Python` `boto3` `Gemini SDK` `pytest` | **Bedrock:** a boto3 session set to `eu-west-1` was sent to `us-east-1` when `BEDROCK_REGION` said so. No error was raised. The session's region now wins. | [![#9967](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9967) |
 | | **Mistral:** `service_url` now reports the endpoint of the injected SDK client, not the default URL. | [![#9968](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9968) |
 | | **Gemini:** with an injected `genai.Client`, a bad env value such as `GOOGLE_GENAI_USE_ENTERPRISE` still crashed construction. Those settings are now skipped. | [![#9969](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9969) |
+| | **Foundry hosting:** cumulative usage snapshots were added together, so 100 then 250 input tokens showed as 350. Snapshots now replace the running total. | [![#10205](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/10205?label=%2310205&style=flat-square)](https://github.com/microsoft/agent-framework/pull/10205) |
 | [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) <br/> ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) <br/> `Python` `LLMs` | Lesson prep broke on reasoning models when `<think>` blocks or prose wrapped the JSON. It now finds the JSON and retries once at the right effort level. | [![#2375](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2375) |
 |  | **Responses API:** strict gateways rejected `status` on replayed items such as `function_call`. It is now stripped from every item. | [![#2454](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2454) |
 |  | **Workspace:** a failed probe-file delete escaped the request. Cleanup is now best effort. | [![#2455](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2455?label=%232455&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2455) |
@@ -116,12 +117,15 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 </details>
 
 <details open>
-<summary><b>🕌 Community & Islamic tech · quran.com, DeenTime, Ansari, Mihrab</b></summary>
+<summary><b>🕌 Community & Islamic tech · quran.com, QUL, hadith-api, DeenTime, Ansari, Mihrab</b></summary>
 <br/>
 
 | Project | What I fixed | PR |
 |:--|:--|:--|
 | [**quran/quran.com-frontend-next**](https://github.com/quran/quran.com-frontend-next) <br/> ![stars](https://img.shields.io/github/stars/quran/quran.com-frontend-next?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Next.js` `React` | **Security:** `.env.example` turned off TLS checks by default. New setups now keep TLS verification on. | [![#3362](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3362?label=%233362&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3362) |
+| | **Dates:** across a DST change, relative dates showed `4.042 days ago`. The day count is now rounded, and the caller's `Date` objects are no longer changed. | [![#3368](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3368?label=%233368&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3368) |
+| | **Locale:** a number-format call with custom options switched the cached locale, so English pages could show Arabic digits. The cache is now keyed by locale. | [![#3369](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3369?label=%233369&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3369) |
+| | **Reflections:** a plain URL near an `<a>` tag, or a repeat of a linked URL, stayed plain text. Each match is now checked at its own position. | [![#3370](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3370?label=%233370&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3370) |
 | [**DeenTime**](https://github.com/Aaqibhafeezkhan/DeenTime) <br/> `JavaScript` `adhan-js` | The prayer-time engine gave `NaN` or times hours off. I restored the solar math and checked it against `adhan-js`. | [![#69](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/69?label=%2369&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/69) |
 | | Fixed three tests that failed on `main`. | [![#70](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/70?label=%2370&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/70) |
 |  | **a11y:** calendar month buttons now hide decorative icons, name the grid they control and announce the new month. | [![#72](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/72?label=%2372&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/72) |
@@ -129,6 +133,12 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 |  | **Search:** 99 Names search now ignores diacritics and Arabic harakat. | [![#74](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/74?label=%2374&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/74) |
 |  | **a11y:** the Tasbih counter announces when the target is reached. | [![#75](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/75?label=%2375&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/75) |
 |  | **Reset:** the Tasbih display now refreshes after settings are reset. | [![#76](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/76?label=%2376&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/76) |
+| [**TarteelAI/quranic-universal-library**](https://github.com/TarteelAI/quranic-universal-library) <br/> ![stars](https://img.shields.io/github/stars/TarteelAI/quranic-universal-library?style=flat-square&label=%E2%98%85) <br/> `Ruby` `JavaScript` `Docs` | **Docs:** the Quran Metadata tutorial assumed arrays and fields no export has, and threw `surahs.map is not a function`. Snippets now match the real export. | [![#1021](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1021?label=%231021&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1021) |
+| | **Docs:** the Surah Information snippet used old field names and rendered an empty card. It now reads the fields the exporter writes. | [![#1022](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1022?label=%231022&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1022) |
+| | **Docs:** the translation snippet threw on chunked exports. It now handles every export shape, including footnotes and SQLite rows. | [![#1023](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1023?label=%231023&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1023) |
+| [**fawazahmed0/hadith-api**](https://github.com/fawazahmed0/hadith-api) <br/> ![stars](https://img.shields.io/github/stars/fawazahmed0/hadith-api?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `Data` | **Text cleanup:** `cleanTrans` cut closing quotes, full stops and reference numbers from every hadith. It now strips only stray symbols. | [![#144](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/144?label=%23144&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/144) |
+| | **Data:** eng-bukhari and eng-malik rebuilt with the fixed cleanup, restoring trimmed endings without changing any hadith text or number. | [![#146](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/146?label=%23146&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/146) |
+| | **Data:** fixed a broken `>br>` token in eng-muslim hadith 4601. | [![#145](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/145?label=%23145&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/145) |
 | [**Ansari**](https://github.com/iaser-ai/ansari) <br/> `TypeScript` `Node.js` `PostgreSQL` | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
 | [**Mihrab**](https://github.com/MihrabHQ/Mihrab) <br/> `TypeScript` `React Native` `Kotlin` | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
 
