@@ -31,13 +31,13 @@
 <a href="https://github.com/microsoft/agent-framework/pull/9967"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square" alt="#9967"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9968"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square" alt="#9968"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9969"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square" alt="#9969"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/HKUDS.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/HKUDS/DeepTutor">HKUDS/DeepTutor</a></b> <img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
-<sub>AI tutor · Python · LLMs</sub>
+<img src="https://github.com/vercel.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/vercel/next.js">vercel/next.js</a></b> <img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>React framework · TypeScript</sub>
 <br/><br/>
-3 merged LLM fixes. Reasoning-model replies broke lesson JSON. Strict gateways rejected replayed items. Long Claude Code prompts failed on Windows.
+App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad <code>Range</code>. They now keep the 4xx status.
 <br/><br/>
-<a href="https://github.com/HKUDS/DeepTutor/pull/2375"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square" alt="#2375"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2454"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square" alt="#2454"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2456"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square" alt="#2456"/></a>
+<a href="https://github.com/vercel/next.js/pull/101188"><img src="https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square" alt="#101188"/></a>
 </td>
 <td width="33%" valign="top">
 <img src="https://github.com/openclaw.png?size=64" width="32" height="32" alt=""/><br/>
@@ -50,15 +50,6 @@
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<img src="https://github.com/vercel.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/vercel/next.js">vercel/next.js</a></b> <img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
-<sub>React framework · TypeScript</sub>
-<br/><br/>
-App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad <code>Range</code>. They now keep the 4xx status.
-<br/><br/>
-<a href="https://github.com/vercel/next.js/pull/101188"><img src="https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square" alt="#101188"/></a>
-</td>
 <td width="33%" valign="top">
 <img src="https://github.com/JetBrains.png?size=64" width="32" height="32" alt=""/><br/>
 <b><a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a></b> <img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
@@ -76,6 +67,15 @@ Editor lookup scanned a slow WSL <code>PATH</code> on the event loop and froze t
 2 merged fixes: MCP tool results kept only the first content block, and <code>string_replace</code> missed matches in CRLF files. Also an XSS fix in the VS Code webview.
 <br/><br/>
 <a href="https://github.com/Nano-Collective/nanocoder/pull/1960"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square" alt="#1960"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1961"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square" alt="#1961"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1927"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square" alt="#1927"/></a>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/HKUDS.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/HKUDS/DeepTutor">HKUDS/DeepTutor</a></b> <img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>AI tutor · Python · LLMs</sub>
+<br/><br/>
+3 merged LLM fixes. Reasoning-model replies broke lesson JSON. Strict gateways rejected replayed items. Long Claude Code prompts failed on Windows.
+<br/><br/>
+<a href="https://github.com/HKUDS/DeepTutor/pull/2375"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square" alt="#2375"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2454"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square" alt="#2454"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2456"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square" alt="#2456"/></a>
 </td>
 </tr>
 </table>
