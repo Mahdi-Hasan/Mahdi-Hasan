@@ -31,11 +31,11 @@ MERGED, OPEN = "#A371F7", "#3FB950"
 CHIPS = [("microsoft", "Microsoft"), ("JetBrains", "JetBrains"), ("vercel", "Vercel"),
          ("openclaw", "OpenClaw"), ("pydantic", "Pydantic"), ("Project-MONAI", "MONAI")]
 TICKER = [("merged", "microsoft/agent-framework#9969"), ("merged", "HKUDS/DeepTutor#2454"),
-          ("open", "openclaw/openclaw#196619"), ("merged", "ivmartel/dwv#2370"),
+          ("merged", "openclaw/openclaw#196631"), ("merged", "ivmartel/dwv#2370"),
           ("open", "pydantic/pydantic-ai#12590"), ("merged", "Nano-Collective/nanocoder#1961"),
           ("open", "Project-MONAI/MONAI#9251")]
 FEATURED = [("microsoft/agent-framework", 9969, "Skip Gemini settings when a client is injected"),
-            ("microsoft/agent-framework", 9967, "Prefer boto3 session region over BEDROCK_REGION"),
+            ("openclaw/openclaw", 196631, "Roll byte sizes over to the next unit"),
             ("HKUDS/DeepTutor", 2375, "Read lesson JSON from reasoning-model replies"),
             ("ivmartel/dwv", 2370, "Decode Korean ISO 2022 IR 149 DICOM strings")]
 

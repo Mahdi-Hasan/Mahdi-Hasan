@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Mehedi Hasan · Full-Stack Software &amp; Product Engineer · Senior Software Engineer @ CloudApper AI · 5+ years · 81 open-source PRs, 21 merged, 24 projects"/>
+<img src="assets/hero.svg" width="100%" alt="Mehedi Hasan · Full-Stack Software &amp; Product Engineer · Senior Software Engineer @ CloudApper AI · 5+ years · 81 open-source PRs, 22 merged, 24 projects"/>
 
 <img src="assets/terminal.svg" width="100%" alt="Merged PRs to microsoft/agent-framework, HKUDS/DeepTutor and ivmartel/dwv"/>
 
