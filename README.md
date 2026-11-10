@@ -40,20 +40,49 @@
 <a href="https://github.com/HKUDS/DeepTutor/pull/2375"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square" alt="#2375"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2454"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square" alt="#2454"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2456"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square" alt="#2456"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://unpkg.com/lucide-static@0.460.0/icons/heart-pulse.svg" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/ivmartel/dwv">ivmartel/dwv</a></b> <img src="https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
-<sub>Medical imaging · DICOM viewer · JavaScript</sub>
+<img src="https://github.com/openclaw.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>AI assistant · 390K+ stars · TypeScript</sub>
 <br/><br/>
-Korean DICOM text coded as ISO 2022 IR 149 failed to decode. Patient names and notes now render correctly.
+4 fixes across IRC, LINE, formatting and the dashboard. A fallback IRC nick grew past the 30-character limit. Sizes like "1024 KiB" now roll over to "1.0 MiB".
 <br/><br/>
-<a href="https://github.com/ivmartel/dwv/pull/2370"><img src="https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2370?label=%232370&style=flat-square" alt="#2370"/></a>
+<a href="https://github.com/openclaw/openclaw/pull/196619"><img src="https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196619?label=%23196619&style=flat-square" alt="#196619"/></a> <a href="https://github.com/openclaw/openclaw/pull/196631"><img src="https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196631?label=%23196631&style=flat-square" alt="#196631"/></a> <a href="https://github.com/openclaw/openclaw/pull/196636"><img src="https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196636?label=%23196636&style=flat-square" alt="#196636"/></a> <a href="https://github.com/openclaw/openclaw/pull/196639"><img src="https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196639?label=%23196639&style=flat-square" alt="#196639"/></a>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/vercel.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/vercel/next.js">vercel/next.js</a></b> <img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>React framework · TypeScript</sub>
+<br/><br/>
+App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad <code>Range</code>. They now keep the 4xx status.
+<br/><br/>
+<a href="https://github.com/vercel/next.js/pull/101188"><img src="https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square" alt="#101188"/></a>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/JetBrains.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a></b> <img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>Agentic IDE · TypeScript · WSL</sub>
+<br/><br/>
+Editor lookup scanned a slow WSL <code>PATH</code> on the event loop and froze the host for seconds. "Reveal in file manager" opened a hidden Explorer window on Windows.
+<br/><br/>
+<a href="https://github.com/JetBrains/thinkrail/pull/1158"><img src="https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square" alt="#1158"/></a> <a href="https://github.com/JetBrains/thinkrail/pull/1159"><img src="https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square" alt="#1159"/></a>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/Nano-Collective.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/Nano-Collective/nanocoder">Nano-Collective/nanocoder</a></b> <img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>Open coding agent · TypeScript</sub>
+<br/><br/>
+2 merged fixes: MCP tool results kept only the first content block, and <code>string_replace</code> missed matches in CRLF files. Also an XSS fix in the VS Code webview.
+<br/><br/>
+<a href="https://github.com/Nano-Collective/nanocoder/pull/1960"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square" alt="#1960"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1961"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square" alt="#1961"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1927"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square" alt="#1927"/></a>
 </td>
 </tr>
 </table>
 
 ### 📂 All contributions
 
-<details>
+<details open>
 <summary><b>🤖 AI agents & LLM frameworks · agent-framework, openclaw, DeepTutor, crewAI, pydantic-ai, LangChain, open-notebook</b></summary>
 <br/>
 
