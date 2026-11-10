@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 74 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 78 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="74 pull requests · 22 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
+<img src="assets/oss.svg" width="100%" alt="78 pull requests · 23 projects · 390K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -65,7 +65,11 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**microsoft/agent-framework**](https://github.com/microsoft/agent-framework) <br/> ![stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85) <br/> `Python` `boto3` `Gemini SDK` `pytest` | **Bedrock:** a boto3 session set to `eu-west-1` was sent to `us-east-1` when `BEDROCK_REGION` said so. No error was raised. The session's region now wins. | [![#9967](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9967) |
 | | **Mistral:** `service_url` now reports the endpoint of the injected SDK client, not the default URL. | [![#9968](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9968) |
 | | **Gemini:** with an injected `genai.Client`, a bad env value such as `GOOGLE_GENAI_USE_ENTERPRISE` still crashed construction. Those settings are now skipped. | [![#9969](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9969) |
-| | **Foundry hosting:** cumulative usage snapshots were added together, so 100 then 250 input tokens showed as 350. Snapshots now replace the running total. | [![#10205](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/10205?label=%2310205&style=flat-square)](https://github.com/microsoft/agent-framework/pull/10205) |
+| | **Foundry hosting:** cumulative usage snapshots were added together, so 100 then 250 input tokens showed as 350. Each agent's snapshot now replaces only that agent's usage. | [![#10205](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/10205?label=%2310205&style=flat-square)](https://github.com/microsoft/agent-framework/pull/10205) |
+| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) <br/> ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` `Vitest` | **IRC:** after repeated nick collisions the fallback nick grew past the 30-character limit. It is now cut to fit. | [![#196619](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196619?label=%23196619&style=flat-square)](https://github.com/openclaw/openclaw/pull/196619) |
+|  | **Formatting:** sizes just below a unit boundary showed as "1024 KiB". They now roll over to "1.0 MiB". | [![#196631](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196631?label=%23196631&style=flat-square)](https://github.com/openclaw/openclaw/pull/196631) |
+|  | **LINE:** email links in table cells showed twice, as `addr (mailto:addr)`. They now show once. | [![#196636](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196636?label=%23196636&style=flat-square)](https://github.com/openclaw/openclaw/pull/196636) |
+|  | **Dashboard:** author search bolded the wrong letters for Korean and accented names. Highlights now match the typed text. | [![#196639](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196639?label=%23196639&style=flat-square)](https://github.com/openclaw/openclaw/pull/196639) |
 | [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) <br/> ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) <br/> `Python` `LLMs` | Lesson prep broke on reasoning models when `<think>` blocks or prose wrapped the JSON. It now finds the JSON and retries once at the right effort level. | [![#2375](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2375) |
 |  | **Responses API:** strict gateways rejected `status` on replayed items such as `function_call`. It is now stripped from every item. | [![#2454](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2454) |
 |  | **Workspace:** a failed probe-file delete escaped the request. Cleanup is now best effort. | [![#2455](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2455?label=%232455&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2455) |
