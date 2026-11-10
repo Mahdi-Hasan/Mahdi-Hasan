@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 73 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 74 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="73 pull requests · 22 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
+<img src="assets/oss.svg" width="100%" alt="74 pull requests · 22 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -113,6 +113,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 |  | **MCP:** only the first content block of a tool result was read. Every block is now formatted, in order. | [![#1960](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1960) |
 |  | **Edit tool:** `string_replace` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#1961](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1961) |
 |  | **Write tool:** `write_file` turned a CRLF file into LF when it overwrote it. Line endings of CRLF files are now kept. | [![#1992](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1992?label=%231992&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1992) |
+|  | **Edit tool:** `diff_edit` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#2007](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/2007?label=%232007&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/2007) |
 | [**vercel/next.js**](https://github.com/vercel/next.js) <br/> ![stars](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` | App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad `Range`. They now keep the 4xx status. | [![#101188](https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square)](https://github.com/vercel/next.js/pull/101188) |
 | [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) <br/> `JavaScript` `Electron` `PowerShell` | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
 | [**Pienteger/Crow**](https://github.com/Pienteger/Crow) <br/> `C#` `.NET` `PowerShell` | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
