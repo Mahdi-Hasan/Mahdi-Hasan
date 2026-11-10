@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mehedi%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI-Enabled%20Product%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Mehedi Hasan, AI-Enabled Product Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mehedi%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI-Enabled%20Product%20Engineer%20%C2%B7%20Open-source%20contributor&descSize=20&descAlignY=58" width="100%" alt="Mehedi Hasan, AI-Enabled Product Engineer and open-source contributor"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=Assalamu+Alaikum+%F0%9F%91%8B;Business+problem+%E2%86%92+shipped+product;Agents+%E2%80%A2+Full+stack+%E2%80%A2+Safe+to+ship" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=78+open-source+PRs+%C2%B7+21+merged+%C2%B7+23+projects;Contributor+to+Microsoft+%E2%80%A2+JetBrains+%E2%80%A2+Vercel;Business+problem+%E2%86%92+shipped+product" alt="Typing intro"/>
 
 **Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai)** · 5+ years · ex [Vivasoft](https://vivasoftltd.com/)
 
@@ -13,7 +13,176 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt=""/> About me
+## Open source
+
+<div align="center">
+
+**78 PRs to 23 projects**, from Microsoft and JetBrains to medical imaging and agent frameworks.
+
+<a href="https://github.com/microsoft/agent-framework" title="microsoft/agent-framework"><img src="https://github.com/microsoft.png?size=88" width="44" height="44" alt="Microsoft"/></a>
+<a href="https://github.com/JetBrains/thinkrail" title="JetBrains/thinkrail"><img src="https://github.com/JetBrains.png?size=88" width="44" height="44" alt="JetBrains"/></a>
+<a href="https://github.com/vercel/next.js" title="vercel/next.js"><img src="https://github.com/vercel.png?size=88" width="44" height="44" alt="Vercel"/></a>
+<a href="https://github.com/openclaw/openclaw" title="openclaw/openclaw"><img src="https://github.com/openclaw.png?size=88" width="44" height="44" alt="OpenClaw"/></a>
+<a href="https://github.com/crewAIInc/crewAI" title="crewAIInc/crewAI"><img src="https://github.com/crewAIInc.png?size=88" width="44" height="44" alt="crewAI"/></a>
+<a href="https://github.com/HKUDS/DeepTutor" title="HKUDS/DeepTutor"><img src="https://github.com/HKUDS.png?size=88" width="44" height="44" alt="HKUDS"/></a>
+<a href="https://github.com/Project-MONAI/MONAI" title="Project-MONAI/MONAI"><img src="https://github.com/Project-MONAI.png?size=88" width="44" height="44" alt="MONAI"/></a>
+<a href="https://github.com/OHIF/Viewers" title="OHIF/Viewers"><img src="https://github.com/OHIF.png?size=88" width="44" height="44" alt="OHIF"/></a>
+<a href="https://github.com/openemr/openemr" title="openemr/openemr"><img src="https://github.com/openemr.png?size=88" width="44" height="44" alt="OpenEMR"/></a>
+<a href="https://github.com/quran/quran.com-frontend-next" title="quran/quran.com-frontend-next"><img src="https://github.com/quran.png?size=88" width="44" height="44" alt="Quran.com"/></a>
+
+</div>
+<br/>
+
+<img src="assets/oss.svg" width="100%" alt="78 pull requests · 21 merged · 23 projects · 390K+ stars on openclaw/openclaw"/>
+
+<sub>Counts refresh daily from GitHub. PR badges update live.</sub>
+
+### ⭐ Featured PRs
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/microsoft.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/microsoft/agent-framework">microsoft/agent-framework</a></b> <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>Microsoft's agent SDK · Python</sub>
+<br/><br/>
+3 merged fixes to model clients. A boto3 session set to <code>eu-west-1</code> was sent to <code>us-east-1</code> with no error. Mistral and Gemini now respect an injected SDK client.
+<br/><br/>
+<a href="https://github.com/microsoft/agent-framework/pull/9967"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square" alt="#9967"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9968"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square" alt="#9968"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9969"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square" alt="#9969"/></a>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/HKUDS.png?size=64" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/HKUDS/DeepTutor">HKUDS/DeepTutor</a></b> <img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>AI tutor · Python · LLMs</sub>
+<br/><br/>
+3 merged LLM fixes. Reasoning-model replies broke lesson JSON. Strict gateways rejected replayed items. Long Claude Code prompts failed on Windows.
+<br/><br/>
+<a href="https://github.com/HKUDS/DeepTutor/pull/2375"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square" alt="#2375"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2454"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square" alt="#2454"/></a> <a href="https://github.com/HKUDS/DeepTutor/pull/2456"><img src="https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square" alt="#2456"/></a>
+</td>
+<td width="33%" valign="top">
+<img src="https://unpkg.com/lucide-static@0.460.0/icons/heart-pulse.svg" width="32" height="32" alt=""/><br/>
+<b><a href="https://github.com/ivmartel/dwv">ivmartel/dwv</a></b> <img src="https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<sub>Medical imaging · DICOM viewer · JavaScript</sub>
+<br/><br/>
+Korean DICOM text coded as ISO 2022 IR 149 failed to decode. Patient names and notes now render correctly.
+<br/><br/>
+<a href="https://github.com/ivmartel/dwv/pull/2370"><img src="https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2370?label=%232370&style=flat-square" alt="#2370"/></a>
+</td>
+</tr>
+</table>
+
+### 📂 All contributions
+
+<details>
+<summary><b>🤖 AI agents & LLM frameworks · agent-framework, openclaw, DeepTutor, crewAI, LangChain, open-notebook</b></summary>
+<br/>
+
+| Project | What I fixed | PR |
+|:--|:--|:--|
+| [**microsoft/agent-framework**](https://github.com/microsoft/agent-framework) <br/> ![stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85) <br/> `Python` `boto3` `Gemini SDK` `pytest` | **Bedrock:** a boto3 session set to `eu-west-1` was sent to `us-east-1` when `BEDROCK_REGION` said so. No error was raised. The session's region now wins. | [![#9967](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9967) |
+| | **Mistral:** `service_url` now reports the endpoint of the injected SDK client, not the default URL. | [![#9968](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9968) |
+| | **Gemini:** with an injected `genai.Client`, a bad env value such as `GOOGLE_GENAI_USE_ENTERPRISE` still crashed construction. Those settings are now skipped. | [![#9969](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9969) |
+| | **Foundry hosting:** cumulative usage snapshots were added together, so 100 then 250 input tokens showed as 350. Each agent's snapshot now replaces only that agent's usage. | [![#10205](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/10205?label=%2310205&style=flat-square)](https://github.com/microsoft/agent-framework/pull/10205) |
+| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) <br/> ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` `Vitest` | **IRC:** after repeated nick collisions the fallback nick grew past the 30-character limit. It is now cut to fit. | [![#196619](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196619?label=%23196619&style=flat-square)](https://github.com/openclaw/openclaw/pull/196619) |
+|  | **Formatting:** sizes just below a unit boundary showed as "1024 KiB". They now roll over to "1.0 MiB". | [![#196631](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196631?label=%23196631&style=flat-square)](https://github.com/openclaw/openclaw/pull/196631) |
+|  | **LINE:** email links in table cells showed twice, as `addr (mailto:addr)`. They now show once. | [![#196636](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196636?label=%23196636&style=flat-square)](https://github.com/openclaw/openclaw/pull/196636) |
+|  | **Dashboard:** author search bolded the wrong letters for Korean and accented names. Highlights now match the typed text. | [![#196639](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196639?label=%23196639&style=flat-square)](https://github.com/openclaw/openclaw/pull/196639) |
+| [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) <br/> ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) <br/> `Python` `LLMs` | Lesson prep broke on reasoning models when `<think>` blocks or prose wrapped the JSON. It now finds the JSON and retries once at the right effort level. | [![#2375](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2375) |
+|  | **Responses API:** strict gateways rejected `status` on replayed items such as `function_call`. It is now stripped from every item. | [![#2454](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2454) |
+|  | **Workspace:** a failed probe-file delete escaped the request. Cleanup is now best effort. | [![#2455](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2455?label=%232455&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2455) |
+|  | **Claude Code:** system prompts over 32K characters failed on Windows with a misleading "not found" error. Long prompts now go through a file. | [![#2456](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2456) |
+| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) <br/> ![stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=%E2%98%85) <br/> `Python` `pytest` | **Files:** expired-upload cleanup never called the provider's delete, because the lookup had already dropped expired entries. Expired files are now deleted. | [![#9109](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9109?label=%239109&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9109) |
+|  | **Telemetry:** strings, numbers and `None` at the depth limit became `repr()` strings. Primitives are now kept unchanged. | [![#9110](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9110?label=%239110&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9110) |
+|  | **A2A auth:** a comma inside a quoted `WWW-Authenticate` value split the challenge. Parsing now respects quotes and escapes. | [![#9111](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9111?label=%239111&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9111) |
+|  | **Planning:** replanned steps restarted at 1 and clashed with completed steps. Clashing steps are now renumbered. | [![#9136](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9136?label=%239136&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9136) |
+|  | **CLI:** after an upgrade, a cached yanked flag from the old version showed a false warning. The cache is now tied to the installed version. | [![#9137](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9137?label=%239137&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9137) |
+|  | **Executor:** every batch after a replan asked for another replan over failures already handled. Handled failures are now skipped. | [![#9138](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9138?label=%239138&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9138) |
+| [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) <br/> `Python` `ComfyUI` `FFmpeg` | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
+| [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) <br/> `C#` `.NET` `RAG` | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
+| [**lfnovo/open-notebook**](https://github.com/lfnovo/open-notebook) <br/> ![stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&label=%E2%98%85) <br/> `Python` `SurrealDB` | **Sources:** a delete that hit a SurrealDB conflict returned 200, but the source and its chunks stayed. Errors now raise, and conflicts are retried. | [![#1559](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1559?label=%231559&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1559) |
+|  | **Sources:** a NUL byte in a text source left a broken command row that stopped the worker. NUL bytes are now rejected before the row is written. | [![#1564](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1564?label=%231564&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1564) |
+
+</details>
+
+<details>
+<summary><b>🩺 Healthcare & medical imaging · MONAI, OHIF, PyHealth, dwv, OpenEMR</b></summary>
+<br/>
+
+| Project | What I fixed | PR |
+|:--|:--|:--|
+| [**Project-MONAI/MONAI**](https://github.com/Project-MONAI/MONAI) <br/> ![stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=flat-square&label=%E2%98%85) <br/> `Python` `PyTorch` `pandas` | **Data loading:** `CSVIterableDataset` with `shuffle=True` returned every item twice per epoch on stream sources. The unshuffled pass now runs only when shuffle is off. Added a regression test. | [![#9249](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9249?label=%239249&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9249) |
+| [**OHIF/Viewers**](https://github.com/OHIF/Viewers) <br/> ![stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `React` `Jest` `DICOM` | **DICOM viewer:** the segment stats card kept stale L/W values and eye state until re-hover. The React Compiler cached the service reads. The card now holds them in state and refreshes on `SEGMENTATION_MODIFIED`. | [![#6408](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6408?label=%236408&style=flat-square)](https://github.com/OHIF/Viewers/pull/6408) |
+| | **Docs:** the FocalLoss alpha docstrings did not describe per-class weights. They now match the merged behaviour. | [![#9251](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9251?label=%239251&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9251) |
+| | **Scrollbar:** an inactive viewport's scrollbar kept a white focus ring. It now takes focus only when keyboard navigation is on. | [![#6409](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6409?label=%236409&style=flat-square)](https://github.com/OHIF/Viewers/pull/6409) |
+| [**sunlabuiuc/PyHealth**](https://github.com/sunlabuiuc/PyHealth) <br/> ![stars](https://img.shields.io/github/stars/sunlabuiuc/PyHealth?style=flat-square&label=%E2%98%85) <br/> `Python` `ML` `EHR` | **StageNet:** nested visits longer than the fitted width were not truncated correctly. The processor now logs one warning per processor. | [![#1380](https://img.shields.io/github/pulls/detail/state/sunlabuiuc/PyHealth/1380?label=%231380&style=flat-square)](https://github.com/sunlabuiuc/PyHealth/pull/1380) |
+| [**ivmartel/dwv**](https://github.com/ivmartel/dwv) <br/> ![stars](https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `DICOM` | **Charset:** Korean DICOM strings coded as ISO 2022 IR 149 failed to decode. They now decode as EUC-KR. | [![#2370](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2370?label=%232370&style=flat-square)](https://github.com/ivmartel/dwv/pull/2370) |
+|  | **Performance:** canvases read back with `getImageData` now use `willReadFrequently`, mainly for video frames. | [![#2373](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2373?label=%232373&style=flat-square)](https://github.com/ivmartel/dwv/pull/2373) |
+|  | **Tests:** added a regression test for sequences that mix defined and undefined length items. | [![#2374](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2374?label=%232374&style=flat-square)](https://github.com/ivmartel/dwv/pull/2374) |
+|  | **Loading:** URL loads take new `timeout` and `timeoutRetries` options. | [![#2375](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2375?label=%232375&style=flat-square)](https://github.com/ivmartel/dwv/pull/2375) |
+|  | **Units:** lengths from raw Imager Pixel Spacing now read `mm (detector)`, not plain `mm`. | [![#2376](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2376?label=%232376&style=flat-square)](https://github.com/ivmartel/dwv/pull/2376) |
+| [**openemr/openemr**](https://github.com/openemr/openemr) <br/> ![stars](https://img.shields.io/github/stars/openemr/openemr?style=flat-square&label=%E2%98%85) <br/> `PHP` `EHR` | **Errors:** HTTP error responses carried no useful body. They now send the status text, and exception detail only when error display is on. | [![#15026](https://img.shields.io/github/pulls/detail/state/openemr/openemr/15026?label=%2315026&style=flat-square)](https://github.com/openemr/openemr/pull/15026) |
+
+</details>
+
+<details>
+<summary><b>🛠️ Developer tools · orca, thinkrail, nanocoder, next.js, claude-buddy, Crow</b></summary>
+<br/>
+
+| Project | What I fixed | PR |
+|:--|:--|:--|
+| [**stablyai/orca**](https://github.com/stablyai/orca) <br/> ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Electron` `React` `Zustand` | **Sidebar:** a new bindable command collapses or expands every project at once. Before, each chevron had to be clicked. | [![#37718](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37718?label=%2337718&style=flat-square)](https://github.com/stablyai/orca/pull/37718) |
+| | **Jira:** several connected sites all showed the same profile name. Each site now shows its host, like `Ada (acme.atlassian.net)`. | [![#37719](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37719?label=%2337719&style=flat-square)](https://github.com/stablyai/orca/pull/37719) |
+| | **Mobile:** "Jump back in" rows showed only the branch, so two `main` rows looked the same. The repo name now shows on every row. | [![#37720](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37720?label=%2337720&style=flat-square)](https://github.com/stablyai/orca/pull/37720) |
+| | **Browser:** an opt-in setting loads terminal links in the open browser tab instead of a new split pane. | [![#37721](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37721?label=%2337721&style=flat-square)](https://github.com/stablyai/orca/pull/37721) |
+| [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) <br/> ![stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` `WSL` | **Windows:** "Reveal in file manager" opened Explorer in a hidden window, with no error. The folder window now shows. | [![#1158](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1158) |
+| | **Performance:** editor lookup scanned a slow WSL `PATH` on the event loop and froze the host for seconds. It now pre-filters folders with async `readdir`. | [![#1159](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1159) |
+| [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `VS Code API` `DOMPurify` | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
+|  | **MCP:** only the first content block of a tool result was read. Every block is now formatted, in order. | [![#1960](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1960) |
+|  | **Edit tool:** `string_replace` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#1961](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1961) |
+|  | **Write tool:** `write_file` turned a CRLF file into LF when it overwrote it. Line endings of CRLF files are now kept. | [![#1992](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1992?label=%231992&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1992) |
+|  | **Edit tool:** `diff_edit` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#2007](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/2007?label=%232007&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/2007) |
+| [**vercel/next.js**](https://github.com/vercel/next.js) <br/> ![stars](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` | App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad `Range`. They now keep the 4xx status. | [![#101188](https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square)](https://github.com/vercel/next.js/pull/101188) |
+| [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) <br/> `JavaScript` `Electron` `PowerShell` | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
+| [**Pienteger/Crow**](https://github.com/Pienteger/Crow) <br/> `C#` `.NET` `PowerShell` | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
+
+</details>
+
+<details>
+<summary><b>🕌 Community & Islamic tech · quran.com, QUL, hadith-api, DeenTime, Ansari, Mihrab</b></summary>
+<br/>
+
+| Project | What I fixed | PR |
+|:--|:--|:--|
+| [**quran/quran.com-frontend-next**](https://github.com/quran/quran.com-frontend-next) <br/> ![stars](https://img.shields.io/github/stars/quran/quran.com-frontend-next?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Next.js` `React` | **Security:** `.env.example` turned off TLS checks by default. New setups now keep TLS verification on. | [![#3362](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3362?label=%233362&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3362) |
+| | **Dates:** across a DST change, relative dates showed `4.042 days ago`. The day count is now rounded, and the caller's `Date` objects are no longer changed. | [![#3368](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3368?label=%233368&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3368) |
+| | **Locale:** a number-format call with custom options switched the cached locale, so English pages could show Arabic digits. The cache is now keyed by locale. | [![#3369](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3369?label=%233369&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3369) |
+| | **Reflections:** a plain URL near an `<a>` tag, or a repeat of a linked URL, stayed plain text. Each match is now checked at its own position. | [![#3370](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3370?label=%233370&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3370) |
+| [**DeenTime**](https://github.com/Aaqibhafeezkhan/DeenTime) <br/> `JavaScript` `adhan-js` | The prayer-time engine gave `NaN` or times hours off. I restored the solar math and checked it against `adhan-js`. | [![#69](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/69?label=%2369&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/69) |
+| | Fixed three tests that failed on `main`. | [![#70](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/70?label=%2370&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/70) |
+|  | **a11y:** calendar month buttons now hide decorative icons, name the grid they control and announce the new month. | [![#72](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/72?label=%2372&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/72) |
+|  | **a11y:** the 99 Names dialog now closes with Escape in browsers without `showModal()`. | [![#73](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/73?label=%2373&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/73) |
+|  | **Search:** 99 Names search now ignores diacritics and Arabic harakat. | [![#74](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/74?label=%2374&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/74) |
+|  | **a11y:** the Tasbih counter announces when the target is reached. | [![#75](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/75?label=%2375&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/75) |
+|  | **Reset:** the Tasbih display now refreshes after settings are reset. | [![#76](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/76?label=%2376&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/76) |
+| [**TarteelAI/quranic-universal-library**](https://github.com/TarteelAI/quranic-universal-library) <br/> ![stars](https://img.shields.io/github/stars/TarteelAI/quranic-universal-library?style=flat-square&label=%E2%98%85) <br/> `Ruby` `JavaScript` `Docs` | **Docs:** the Quran Metadata tutorial assumed arrays and fields no export has, and threw `surahs.map is not a function`. Snippets now match the real export. | [![#1021](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1021?label=%231021&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1021) |
+| | **Docs:** the Surah Information snippet used old field names and rendered an empty card. It now reads the fields the exporter writes. | [![#1022](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1022?label=%231022&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1022) |
+| | **Docs:** the translation snippet threw on chunked exports. It now handles every export shape, including footnotes and SQLite rows. | [![#1023](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1023?label=%231023&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1023) |
+| [**fawazahmed0/hadith-api**](https://github.com/fawazahmed0/hadith-api) <br/> ![stars](https://img.shields.io/github/stars/fawazahmed0/hadith-api?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `Data` | **Text cleanup:** `cleanTrans` cut closing quotes, full stops and reference numbers from every hadith. It now strips only stray symbols. | [![#144](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/144?label=%23144&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/144) |
+| | **Data:** eng-bukhari and eng-malik rebuilt with the fixed cleanup, restoring trimmed endings without changing any hadith text or number. | [![#146](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/146?label=%23146&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/146) |
+| | **Data:** fixed a broken `>br>` token in eng-muslim hadith 4601. | [![#145](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/145?label=%23145&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/145) |
+| [**Ansari**](https://github.com/iaser-ai/ansari) <br/> `TypeScript` `Node.js` `PostgreSQL` | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
+| [**Mihrab**](https://github.com/MihrabHQ/Mihrab) <br/> `TypeScript` `React Native` `Kotlin` | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
+
+</details>
+
+### 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake.svg" width="100%" alt="Contribution graph with a snake eating the green squares"/>
+</picture>
+
+## About me
 
 I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
 
@@ -46,113 +215,13 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ### 🏢 Domains
 
-<img src="https://img.shields.io/badge/HR_%26_Payroll-4F46E5?style=for-the-badge" alt="HR & Payroll"/> <img src="https://img.shields.io/badge/Healthcare_·_HIPAA-0EA5E9?style=for-the-badge" alt="Healthcare, HIPAA"/> <img src="https://img.shields.io/badge/Finance_Ops-10B981?style=for-the-badge" alt="Finance Ops"/> <img src="https://img.shields.io/badge/No--code_Platforms-8B5CF6?style=for-the-badge" alt="No-code Platforms"/> <img src="https://img.shields.io/badge/Legacy_Modernization-F59E0B?style=for-the-badge" alt="Legacy Modernization"/> <img src="https://img.shields.io/badge/Identity_%26_Security-EF4444?style=for-the-badge" alt="Identity & Security"/>
+<img src="https://img.shields.io/badge/HR_%26_Payroll-4F46E5?style=for-the-badge" alt="HR & Payroll"/> <img src="https://img.shields.io/badge/Healthcare_·_HIPAA-4F46E5?style=for-the-badge" alt="Healthcare, HIPAA"/> <img src="https://img.shields.io/badge/Finance_Ops-4F46E5?style=for-the-badge" alt="Finance Ops"/> <img src="https://img.shields.io/badge/No--code_Platforms-4F46E5?style=for-the-badge" alt="No-code Platforms"/> <img src="https://img.shields.io/badge/Legacy_Modernization-4F46E5?style=for-the-badge" alt="Legacy Modernization"/> <img src="https://img.shields.io/badge/Identity_%26_Security-4F46E5?style=for-the-badge" alt="Identity & Security"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" alt=""/> Impact in numbers
+## Impact in numbers
 
 <img src="assets/impact.svg" width="100%" alt="60K+ SSO users · 800+ companies on PIHR · ~100K invoices at 90% accuracy · 70%+ less manual work · 20–30% faster APIs · zero PHI leaks · ~2× Bangla summarization accuracy · Top 5% LinkedIn C# &amp; OOP"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
-
-<img src="assets/oss.svg" width="100%" alt="78 pull requests · 23 projects · 390K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
-
-<sub>PR status badges below update live from GitHub.</sub>
-
-### 🤖 AI agents & LLM frameworks
-
-| Project | What I fixed | PR |
-|:--|:--|:--|
-| [**microsoft/agent-framework**](https://github.com/microsoft/agent-framework) <br/> ![stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85) <br/> `Python` `boto3` `Gemini SDK` `pytest` | **Bedrock:** a boto3 session set to `eu-west-1` was sent to `us-east-1` when `BEDROCK_REGION` said so. No error was raised. The session's region now wins. | [![#9967](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9967) |
-| | **Mistral:** `service_url` now reports the endpoint of the injected SDK client, not the default URL. | [![#9968](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9968) |
-| | **Gemini:** with an injected `genai.Client`, a bad env value such as `GOOGLE_GENAI_USE_ENTERPRISE` still crashed construction. Those settings are now skipped. | [![#9969](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square)](https://github.com/microsoft/agent-framework/pull/9969) |
-| | **Foundry hosting:** cumulative usage snapshots were added together, so 100 then 250 input tokens showed as 350. Each agent's snapshot now replaces only that agent's usage. | [![#10205](https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/10205?label=%2310205&style=flat-square)](https://github.com/microsoft/agent-framework/pull/10205) |
-| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) <br/> ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` `Vitest` | **IRC:** after repeated nick collisions the fallback nick grew past the 30-character limit. It is now cut to fit. | [![#196619](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196619?label=%23196619&style=flat-square)](https://github.com/openclaw/openclaw/pull/196619) |
-|  | **Formatting:** sizes just below a unit boundary showed as "1024 KiB". They now roll over to "1.0 MiB". | [![#196631](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196631?label=%23196631&style=flat-square)](https://github.com/openclaw/openclaw/pull/196631) |
-|  | **LINE:** email links in table cells showed twice, as `addr (mailto:addr)`. They now show once. | [![#196636](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196636?label=%23196636&style=flat-square)](https://github.com/openclaw/openclaw/pull/196636) |
-|  | **Dashboard:** author search bolded the wrong letters for Korean and accented names. Highlights now match the typed text. | [![#196639](https://img.shields.io/github/pulls/detail/state/openclaw/openclaw/196639?label=%23196639&style=flat-square)](https://github.com/openclaw/openclaw/pull/196639) |
-| [**HKUDS/DeepTutor**](https://github.com/HKUDS/DeepTutor) <br/> ![stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85) <br/> `Python` `LLMs` | Lesson prep broke on reasoning models when `<think>` blocks or prose wrapped the JSON. It now finds the JSON and retries once at the right effort level. | [![#2375](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2375?label=%232375&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2375) |
-|  | **Responses API:** strict gateways rejected `status` on replayed items such as `function_call`. It is now stripped from every item. | [![#2454](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2454?label=%232454&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2454) |
-|  | **Workspace:** a failed probe-file delete escaped the request. Cleanup is now best effort. | [![#2455](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2455?label=%232455&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2455) |
-|  | **Claude Code:** system prompts over 32K characters failed on Windows with a misleading "not found" error. Long prompts now go through a file. | [![#2456](https://img.shields.io/github/pulls/detail/state/HKUDS/DeepTutor/2456?label=%232456&style=flat-square)](https://github.com/HKUDS/DeepTutor/pull/2456) |
-| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) <br/> ![stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&label=%E2%98%85) <br/> `Python` `pytest` | **Files:** expired-upload cleanup never called the provider's delete, because the lookup had already dropped expired entries. Expired files are now deleted. | [![#9109](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9109?label=%239109&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9109) |
-|  | **Telemetry:** strings, numbers and `None` at the depth limit became `repr()` strings. Primitives are now kept unchanged. | [![#9110](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9110?label=%239110&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9110) |
-|  | **A2A auth:** a comma inside a quoted `WWW-Authenticate` value split the challenge. Parsing now respects quotes and escapes. | [![#9111](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9111?label=%239111&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9111) |
-|  | **Planning:** replanned steps restarted at 1 and clashed with completed steps. Clashing steps are now renumbered. | [![#9136](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9136?label=%239136&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9136) |
-|  | **CLI:** after an upgrade, a cached yanked flag from the old version showed a false warning. The cache is now tied to the installed version. | [![#9137](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9137?label=%239137&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9137) |
-|  | **Executor:** every batch after a replan asked for another replan over failures already handled. Handled failures are now skipped. | [![#9138](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9138?label=%239138&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9138) |
-| [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) <br/> `Python` `ComfyUI` `FFmpeg` | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
-| [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) <br/> `C#` `.NET` `RAG` | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
-| [**lfnovo/open-notebook**](https://github.com/lfnovo/open-notebook) <br/> ![stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&label=%E2%98%85) <br/> `Python` `SurrealDB` | **Sources:** a delete that hit a SurrealDB conflict returned 200, but the source and its chunks stayed. Errors now raise, and conflicts are retried. | [![#1559](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1559?label=%231559&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1559) |
-|  | **Sources:** a NUL byte in a text source left a broken command row that stopped the worker. NUL bytes are now rejected before the row is written. | [![#1564](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1564?label=%231564&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1564) |
-
-### 🩺 Healthcare & medical imaging
-
-| Project | What I fixed | PR |
-|:--|:--|:--|
-| [**Project-MONAI/MONAI**](https://github.com/Project-MONAI/MONAI) <br/> ![stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=flat-square&label=%E2%98%85) <br/> `Python` `PyTorch` `pandas` | **Data loading:** `CSVIterableDataset` with `shuffle=True` returned every item twice per epoch on stream sources. The unshuffled pass now runs only when shuffle is off. Added a regression test. | [![#9249](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9249?label=%239249&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9249) |
-| [**OHIF/Viewers**](https://github.com/OHIF/Viewers) <br/> ![stars](https://img.shields.io/github/stars/OHIF/Viewers?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `React` `Jest` `DICOM` | **DICOM viewer:** the segment stats card kept stale L/W values and eye state until re-hover. The React Compiler cached the service reads. The card now holds them in state and refreshes on `SEGMENTATION_MODIFIED`. | [![#6408](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6408?label=%236408&style=flat-square)](https://github.com/OHIF/Viewers/pull/6408) |
-| | **Docs:** the FocalLoss alpha docstrings did not describe per-class weights. They now match the merged behaviour. | [![#9251](https://img.shields.io/github/pulls/detail/state/Project-MONAI/MONAI/9251?label=%239251&style=flat-square)](https://github.com/Project-MONAI/MONAI/pull/9251) |
-| | **Scrollbar:** an inactive viewport's scrollbar kept a white focus ring. It now takes focus only when keyboard navigation is on. | [![#6409](https://img.shields.io/github/pulls/detail/state/OHIF/Viewers/6409?label=%236409&style=flat-square)](https://github.com/OHIF/Viewers/pull/6409) |
-| [**sunlabuiuc/PyHealth**](https://github.com/sunlabuiuc/PyHealth) <br/> ![stars](https://img.shields.io/github/stars/sunlabuiuc/PyHealth?style=flat-square&label=%E2%98%85) <br/> `Python` `ML` `EHR` | **StageNet:** nested visits longer than the fitted width were not truncated correctly. The processor now logs one warning per processor. | [![#1380](https://img.shields.io/github/pulls/detail/state/sunlabuiuc/PyHealth/1380?label=%231380&style=flat-square)](https://github.com/sunlabuiuc/PyHealth/pull/1380) |
-| [**ivmartel/dwv**](https://github.com/ivmartel/dwv) <br/> ![stars](https://img.shields.io/github/stars/ivmartel/dwv?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `DICOM` | **Charset:** Korean DICOM strings coded as ISO 2022 IR 149 failed to decode. They now decode as EUC-KR. | [![#2370](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2370?label=%232370&style=flat-square)](https://github.com/ivmartel/dwv/pull/2370) |
-|  | **Performance:** canvases read back with `getImageData` now use `willReadFrequently`, mainly for video frames. | [![#2373](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2373?label=%232373&style=flat-square)](https://github.com/ivmartel/dwv/pull/2373) |
-|  | **Tests:** added a regression test for sequences that mix defined and undefined length items. | [![#2374](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2374?label=%232374&style=flat-square)](https://github.com/ivmartel/dwv/pull/2374) |
-|  | **Loading:** URL loads take new `timeout` and `timeoutRetries` options. | [![#2375](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2375?label=%232375&style=flat-square)](https://github.com/ivmartel/dwv/pull/2375) |
-|  | **Units:** lengths from raw Imager Pixel Spacing now read `mm (detector)`, not plain `mm`. | [![#2376](https://img.shields.io/github/pulls/detail/state/ivmartel/dwv/2376?label=%232376&style=flat-square)](https://github.com/ivmartel/dwv/pull/2376) |
-| [**openemr/openemr**](https://github.com/openemr/openemr) <br/> ![stars](https://img.shields.io/github/stars/openemr/openemr?style=flat-square&label=%E2%98%85) <br/> `PHP` `EHR` | **Errors:** HTTP error responses carried no useful body. They now send the status text, and exception detail only when error display is on. | [![#15026](https://img.shields.io/github/pulls/detail/state/openemr/openemr/15026?label=%2315026&style=flat-square)](https://github.com/openemr/openemr/pull/15026) |
-
-<details open>
-<summary><b>🛠️ Developer tools · orca, thinkrail, nanocoder, next.js, claude-buddy, Crow</b></summary>
-<br/>
-
-| Project | What I fixed | PR |
-|:--|:--|:--|
-| [**stablyai/orca**](https://github.com/stablyai/orca) <br/> ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Electron` `React` `Zustand` | **Sidebar:** a new bindable command collapses or expands every project at once. Before, each chevron had to be clicked. | [![#37718](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37718?label=%2337718&style=flat-square)](https://github.com/stablyai/orca/pull/37718) |
-| | **Jira:** several connected sites all showed the same profile name. Each site now shows its host, like `Ada (acme.atlassian.net)`. | [![#37719](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37719?label=%2337719&style=flat-square)](https://github.com/stablyai/orca/pull/37719) |
-| | **Mobile:** "Jump back in" rows showed only the branch, so two `main` rows looked the same. The repo name now shows on every row. | [![#37720](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37720?label=%2337720&style=flat-square)](https://github.com/stablyai/orca/pull/37720) |
-| | **Browser:** an opt-in setting loads terminal links in the open browser tab instead of a new split pane. | [![#37721](https://img.shields.io/github/pulls/detail/state/stablyai/orca/37721?label=%2337721&style=flat-square)](https://github.com/stablyai/orca/pull/37721) |
-| [**JetBrains/thinkrail**](https://github.com/JetBrains/thinkrail) <br/> ![stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` `WSL` | **Windows:** "Reveal in file manager" opened Explorer in a hidden window, with no error. The folder window now shows. | [![#1158](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1158) |
-| | **Performance:** editor lookup scanned a slow WSL `PATH` on the event loop and froze the host for seconds. It now pre-filters folders with async `readdir`. | [![#1159](https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square)](https://github.com/JetBrains/thinkrail/pull/1159) |
-| [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `VS Code API` `DOMPurify` | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
-|  | **MCP:** only the first content block of a tool result was read. Every block is now formatted, in order. | [![#1960](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1960) |
-|  | **Edit tool:** `string_replace` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#1961](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1961) |
-|  | **Write tool:** `write_file` turned a CRLF file into LF when it overwrote it. Line endings of CRLF files are now kept. | [![#1992](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1992?label=%231992&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1992) |
-|  | **Edit tool:** `diff_edit` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#2007](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/2007?label=%232007&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/2007) |
-| [**vercel/next.js**](https://github.com/vercel/next.js) <br/> ![stars](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` | App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad `Range`. They now keep the 4xx status. | [![#101188](https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square)](https://github.com/vercel/next.js/pull/101188) |
-| [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) <br/> `JavaScript` `Electron` `PowerShell` | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
-| [**Pienteger/Crow**](https://github.com/Pienteger/Crow) <br/> `C#` `.NET` `PowerShell` | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
-
-</details>
-
-<details open>
-<summary><b>🕌 Community & Islamic tech · quran.com, QUL, hadith-api, DeenTime, Ansari, Mihrab</b></summary>
-<br/>
-
-| Project | What I fixed | PR |
-|:--|:--|:--|
-| [**quran/quran.com-frontend-next**](https://github.com/quran/quran.com-frontend-next) <br/> ![stars](https://img.shields.io/github/stars/quran/quran.com-frontend-next?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Next.js` `React` | **Security:** `.env.example` turned off TLS checks by default. New setups now keep TLS verification on. | [![#3362](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3362?label=%233362&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3362) |
-| | **Dates:** across a DST change, relative dates showed `4.042 days ago`. The day count is now rounded, and the caller's `Date` objects are no longer changed. | [![#3368](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3368?label=%233368&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3368) |
-| | **Locale:** a number-format call with custom options switched the cached locale, so English pages could show Arabic digits. The cache is now keyed by locale. | [![#3369](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3369?label=%233369&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3369) |
-| | **Reflections:** a plain URL near an `<a>` tag, or a repeat of a linked URL, stayed plain text. Each match is now checked at its own position. | [![#3370](https://img.shields.io/github/pulls/detail/state/quran/quran.com-frontend-next/3370?label=%233370&style=flat-square)](https://github.com/quran/quran.com-frontend-next/pull/3370) |
-| [**DeenTime**](https://github.com/Aaqibhafeezkhan/DeenTime) <br/> `JavaScript` `adhan-js` | The prayer-time engine gave `NaN` or times hours off. I restored the solar math and checked it against `adhan-js`. | [![#69](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/69?label=%2369&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/69) |
-| | Fixed three tests that failed on `main`. | [![#70](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/70?label=%2370&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/70) |
-|  | **a11y:** calendar month buttons now hide decorative icons, name the grid they control and announce the new month. | [![#72](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/72?label=%2372&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/72) |
-|  | **a11y:** the 99 Names dialog now closes with Escape in browsers without `showModal()`. | [![#73](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/73?label=%2373&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/73) |
-|  | **Search:** 99 Names search now ignores diacritics and Arabic harakat. | [![#74](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/74?label=%2374&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/74) |
-|  | **a11y:** the Tasbih counter announces when the target is reached. | [![#75](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/75?label=%2375&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/75) |
-|  | **Reset:** the Tasbih display now refreshes after settings are reset. | [![#76](https://img.shields.io/github/pulls/detail/state/Aaqibhafeezkhan/DeenTime/76?label=%2376&style=flat-square)](https://github.com/Aaqibhafeezkhan/DeenTime/pull/76) |
-| [**TarteelAI/quranic-universal-library**](https://github.com/TarteelAI/quranic-universal-library) <br/> ![stars](https://img.shields.io/github/stars/TarteelAI/quranic-universal-library?style=flat-square&label=%E2%98%85) <br/> `Ruby` `JavaScript` `Docs` | **Docs:** the Quran Metadata tutorial assumed arrays and fields no export has, and threw `surahs.map is not a function`. Snippets now match the real export. | [![#1021](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1021?label=%231021&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1021) |
-| | **Docs:** the Surah Information snippet used old field names and rendered an empty card. It now reads the fields the exporter writes. | [![#1022](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1022?label=%231022&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1022) |
-| | **Docs:** the translation snippet threw on chunked exports. It now handles every export shape, including footnotes and SQLite rows. | [![#1023](https://img.shields.io/github/pulls/detail/state/TarteelAI/quranic-universal-library/1023?label=%231023&style=flat-square)](https://github.com/TarteelAI/quranic-universal-library/pull/1023) |
-| [**fawazahmed0/hadith-api**](https://github.com/fawazahmed0/hadith-api) <br/> ![stars](https://img.shields.io/github/stars/fawazahmed0/hadith-api?style=flat-square&label=%E2%98%85) <br/> `JavaScript` `Data` | **Text cleanup:** `cleanTrans` cut closing quotes, full stops and reference numbers from every hadith. It now strips only stray symbols. | [![#144](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/144?label=%23144&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/144) |
-| | **Data:** eng-bukhari and eng-malik rebuilt with the fixed cleanup, restoring trimmed endings without changing any hadith text or number. | [![#146](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/146?label=%23146&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/146) |
-| | **Data:** fixed a broken `>br>` token in eng-muslim hadith 4601. | [![#145](https://img.shields.io/github/pulls/detail/state/fawazahmed0/hadith-api/145?label=%23145&style=flat-square)](https://github.com/fawazahmed0/hadith-api/pull/145) |
-| [**Ansari**](https://github.com/iaser-ai/ansari) <br/> `TypeScript` `Node.js` `PostgreSQL` | The API's Postgres pool had no `error` listener. A dropped idle connection became an uncaught exception. It is now logged and the dead client is discarded. | [![#349](https://img.shields.io/github/pulls/detail/state/iaser-ai/ansari/349?label=%23349&style=flat-square)](https://github.com/iaser-ai/ansari/pull/349) |
-| [**Mihrab**](https://github.com/MihrabHQ/Mihrab) <br/> `TypeScript` `React Native` `Kotlin` | Arabic home-screen widgets were not RTL. I traced it to widget rows following the phone's locale, not the app's language. The maintainer shipped a fix based on it. | [![#118](https://img.shields.io/github/issues/detail/state/MihrabHQ/Mihrab/118?label=%23118&style=flat-square)](https://github.com/MihrabHQ/Mihrab/issues/118) |
-
-</details>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" alt=""/> Experience
+## Experience
 
 <details open>
 <summary><b>CloudApper AI</b> (a division of M2SYS Technology) — Senior Software Engineer · <i>Jun 2026 – Present</i></summary>
@@ -188,7 +257,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt=""/> Featured projects
+## Featured projects
 
 ### ☁️ At CloudApper AI
 
@@ -346,7 +415,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="30" alt=""/> Tech stack
+## Tech stack
 
 <p align="center">
   <b>Languages</b><br/>
@@ -396,7 +465,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="30" alt=""/> Recognition & learning
+## Recognition & learning
 
 - 🧭 Pendo Learning Lab (Nov 2026): [**Becoming an AI-native Product Manager**](https://www.pendo.io/learninglab/certificates/cmvyyltxs000cq64c5qzalz4g/) · [**Product Judgment**](https://www.pendo.io/learninglab/certificates/cmw0itewa004gkywetcml0zf6/).
 - 🎤 **Industry Expert & Mentor**, Edge Program (World Bank / Govt. of Bangladesh). Taught Python, GenAI and back-end deployment.
@@ -409,7 +478,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" alt=""/> Let's talk
+### Let's talk
 
 Open to **AI product engineering**, **agentic AI** and **full-stack** roles.
 
