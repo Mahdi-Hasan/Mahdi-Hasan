@@ -1,42 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mehedi%20Hasan&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI-Enabled%20Product%20Engineer%20%C2%B7%20Open-source%20contributor&descSize=20&descAlignY=58" width="100%" alt="Mehedi Hasan, AI-Enabled Product Engineer and open-source contributor"/>
+<img src="assets/hero.svg" width="100%" alt="Mehedi Hasan · Full-Stack Software &amp; Product Engineer · Senior Software Engineer @ CloudApper AI · 5+ years · 81 open-source PRs, 21 merged, 24 projects"/>
+
+<img src="assets/terminal.svg" width="100%" alt="Merged PRs to microsoft/agent-framework, HKUDS/DeepTutor and ivmartel/dwv"/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=81+open-source+PRs+%C2%B7+21+merged+%C2%B7+24+projects;Contributor+to+Microsoft+%E2%80%A2+JetBrains+%E2%80%A2+Vercel;Business+problem+%E2%86%92+shipped+product" alt="Typing intro"/>
-
-**Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai)** · 5+ years · ex [Vivasoft](https://vivasoftltd.com/)
 
 <a href="https://www.linkedin.com/in/m-hasan-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:m.hasan.pro1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://huggingface.co/MahdiSUST/mt5-large-bn_sum_total_data"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 <a href="https://drive.google.com/file/d/1MpxqFTe7IeGshDoHCmjBUD-4vN4C40mM/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 
+<sub>Previously Software Engineer at <a href="https://vivasoftltd.com/">Vivasoft</a></sub>
+
 </div>
 
 ## Open source
 
-<div align="center">
-
-**81 PRs to 24 projects**, from Microsoft and JetBrains to medical imaging and agent frameworks.
-
-<a href="https://github.com/microsoft/agent-framework" title="microsoft/agent-framework"><img src="https://github.com/microsoft.png?size=88" width="44" height="44" alt="Microsoft"/></a>
-<a href="https://github.com/JetBrains/thinkrail" title="JetBrains/thinkrail"><img src="https://github.com/JetBrains.png?size=88" width="44" height="44" alt="JetBrains"/></a>
-<a href="https://github.com/vercel/next.js" title="vercel/next.js"><img src="https://github.com/vercel.png?size=88" width="44" height="44" alt="Vercel"/></a>
-<a href="https://github.com/openclaw/openclaw" title="openclaw/openclaw"><img src="https://github.com/openclaw.png?size=88" width="44" height="44" alt="OpenClaw"/></a>
-<a href="https://github.com/pydantic/pydantic-ai" title="pydantic/pydantic-ai"><img src="https://github.com/pydantic.png?size=88" width="44" height="44" alt="Pydantic"/></a>
-<a href="https://github.com/crewAIInc/crewAI" title="crewAIInc/crewAI"><img src="https://github.com/crewAIInc.png?size=88" width="44" height="44" alt="crewAI"/></a>
-<a href="https://github.com/HKUDS/DeepTutor" title="HKUDS/DeepTutor"><img src="https://github.com/HKUDS.png?size=88" width="44" height="44" alt="HKUDS"/></a>
-<a href="https://github.com/Project-MONAI/MONAI" title="Project-MONAI/MONAI"><img src="https://github.com/Project-MONAI.png?size=88" width="44" height="44" alt="MONAI"/></a>
-<a href="https://github.com/OHIF/Viewers" title="OHIF/Viewers"><img src="https://github.com/OHIF.png?size=88" width="44" height="44" alt="OHIF"/></a>
-<a href="https://github.com/openemr/openemr" title="openemr/openemr"><img src="https://github.com/openemr.png?size=88" width="44" height="44" alt="OpenEMR"/></a>
-<a href="https://github.com/quran/quran.com-frontend-next" title="quran/quran.com-frontend-next"><img src="https://github.com/quran.png?size=88" width="44" height="44" alt="Quran.com"/></a>
-
-</div>
-<br/>
-
-<img src="assets/oss.svg" width="100%" alt="81 pull requests · 21 merged · 24 projects · 390K+ stars on openclaw/openclaw"/>
-
-<sub>Counts refresh daily from GitHub. PR badges update live.</sub>
+<sub>Hero counts refresh daily from GitHub. PR badges update live.</sub>
 
 ### ⭐ Featured PRs
 
@@ -179,16 +158,9 @@ Korean DICOM text coded as ISO 2022 IR 149 failed to decode. Patient names and n
 
 </details>
 
-### 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Mahdi-Hasan/Mahdi-Hasan/output/snake.svg" width="100%" alt="Contribution graph with a snake eating the green squares"/>
-</picture>
-
 ## About me
 
-I'm an **AI-enabled product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
+I'm a **full-stack software & product engineer**. I start from the business problem, not the tool. Then I ship the fix end to end: data, back end, AI and UI.
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
