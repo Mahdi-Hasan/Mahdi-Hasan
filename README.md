@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=78+open-source+PRs+%C2%B7+21+merged+%C2%B7+23+projects;Contributor+to+Microsoft+%E2%80%A2+JetBrains+%E2%80%A2+Vercel;Business+problem+%E2%86%92+shipped+product" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=81+open-source+PRs+%C2%B7+21+merged+%C2%B7+24+projects;Contributor+to+Microsoft+%E2%80%A2+JetBrains+%E2%80%A2+Vercel;Business+problem+%E2%86%92+shipped+product" alt="Typing intro"/>
 
 **Senior Software Engineer at [CloudApper AI](https://www.cloudapper.ai)** · 5+ years · ex [Vivasoft](https://vivasoftltd.com/)
 
@@ -17,12 +17,13 @@
 
 <div align="center">
 
-**78 PRs to 23 projects**, from Microsoft and JetBrains to medical imaging and agent frameworks.
+**81 PRs to 24 projects**, from Microsoft and JetBrains to medical imaging and agent frameworks.
 
 <a href="https://github.com/microsoft/agent-framework" title="microsoft/agent-framework"><img src="https://github.com/microsoft.png?size=88" width="44" height="44" alt="Microsoft"/></a>
 <a href="https://github.com/JetBrains/thinkrail" title="JetBrains/thinkrail"><img src="https://github.com/JetBrains.png?size=88" width="44" height="44" alt="JetBrains"/></a>
 <a href="https://github.com/vercel/next.js" title="vercel/next.js"><img src="https://github.com/vercel.png?size=88" width="44" height="44" alt="Vercel"/></a>
 <a href="https://github.com/openclaw/openclaw" title="openclaw/openclaw"><img src="https://github.com/openclaw.png?size=88" width="44" height="44" alt="OpenClaw"/></a>
+<a href="https://github.com/pydantic/pydantic-ai" title="pydantic/pydantic-ai"><img src="https://github.com/pydantic.png?size=88" width="44" height="44" alt="Pydantic"/></a>
 <a href="https://github.com/crewAIInc/crewAI" title="crewAIInc/crewAI"><img src="https://github.com/crewAIInc.png?size=88" width="44" height="44" alt="crewAI"/></a>
 <a href="https://github.com/HKUDS/DeepTutor" title="HKUDS/DeepTutor"><img src="https://github.com/HKUDS.png?size=88" width="44" height="44" alt="HKUDS"/></a>
 <a href="https://github.com/Project-MONAI/MONAI" title="Project-MONAI/MONAI"><img src="https://github.com/Project-MONAI.png?size=88" width="44" height="44" alt="MONAI"/></a>
@@ -33,7 +34,7 @@
 </div>
 <br/>
 
-<img src="assets/oss.svg" width="100%" alt="78 pull requests · 21 merged · 23 projects · 390K+ stars on openclaw/openclaw"/>
+<img src="assets/oss.svg" width="100%" alt="81 pull requests · 21 merged · 24 projects · 390K+ stars on openclaw/openclaw"/>
 
 <sub>Counts refresh daily from GitHub. PR badges update live.</sub>
 
@@ -74,7 +75,7 @@ Korean DICOM text coded as ISO 2022 IR 149 failed to decode. Patient names and n
 ### 📂 All contributions
 
 <details>
-<summary><b>🤖 AI agents & LLM frameworks · agent-framework, openclaw, DeepTutor, crewAI, LangChain, open-notebook</b></summary>
+<summary><b>🤖 AI agents & LLM frameworks · agent-framework, openclaw, DeepTutor, crewAI, pydantic-ai, LangChain, open-notebook</b></summary>
 <br/>
 
 | Project | What I fixed | PR |
@@ -97,6 +98,9 @@ Korean DICOM text coded as ISO 2022 IR 149 failed to decode. Patient names and n
 |  | **Planning:** replanned steps restarted at 1 and clashed with completed steps. Clashing steps are now renumbered. | [![#9136](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9136?label=%239136&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9136) |
 |  | **CLI:** after an upgrade, a cached yanked flag from the old version showed a false warning. The cache is now tied to the installed version. | [![#9137](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9137?label=%239137&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9137) |
 |  | **Executor:** every batch after a replan asked for another replan over failures already handled. Handled failures are now skipped. | [![#9138](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9138?label=%239138&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9138) |
+| [**pydantic/pydantic-ai**](https://github.com/pydantic/pydantic-ai) <br/> ![stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=%E2%98%85) <br/> `Python` `asyncio` `SQLite` `pytest` | **OpenAI batch:** grouping read `default_headers`, which ran `uname -p` on the event loop. It now hashes only the auth, org and project headers. | [![#12590](https://img.shields.io/github/pulls/detail/state/pydantic/pydantic-ai/12590?label=%2312590&style=flat-square)](https://github.com/pydantic/pydantic-ai/pull/12590) |
+|  | **Tests:** the Mistral `max_retries` test made one attempt on slow runners. It now uses a fake clock, so it passes at any speed. | [![#12591](https://img.shields.io/github/pulls/detail/state/pydantic/pydantic-ai/12591?label=%2312591&style=flat-square)](https://github.com/pydantic/pydantic-ai/pull/12591) |
+|  | **Planning:** `SqlitePlanStore` leaked its connection when schema setup failed on a locked database. It now closes and re-raises. | [![#12592](https://img.shields.io/github/pulls/detail/state/pydantic/pydantic-ai/12592?label=%2312592&style=flat-square)](https://github.com/pydantic/pydantic-ai/pull/12592) |
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) <br/> `Python` `ComfyUI` `FFmpeg` | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) <br/> `C#` `.NET` `RAG` | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
 | [**lfnovo/open-notebook**](https://github.com/lfnovo/open-notebook) <br/> ![stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&label=%E2%98%85) <br/> `Python` `SurrealDB` | **Sources:** a delete that hit a SurrealDB conflict returned 200, but the source and its chunks stayed. Errors now raise, and conflicts are retried. | [![#1559](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1559?label=%231559&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1559) |
@@ -188,7 +192,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 78 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 81 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 

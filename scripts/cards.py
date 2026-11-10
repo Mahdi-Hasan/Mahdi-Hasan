@@ -17,7 +17,7 @@ README = ROOT / "README.md"
 USER = "Mahdi-Hasan"
 # Personal, coursework or abandoned repos that the portfolio does not list.
 EXCLUDE_OWNERS = {USER, "Fazle-Rakib", "gourab98", "jspw", "sybilgit"}
-EXCLUDE_REPOS = {"pydantic/pydantic-ai"}
+EXCLUDE_REPOS: set[str] = set()
 
 # Lucide icon paths (24x24, stroke-based)
 ICONS = {
