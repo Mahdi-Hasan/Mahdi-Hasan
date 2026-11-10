@@ -22,8 +22,7 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/microsoft.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/microsoft/agent-framework">microsoft/agent-framework</a></b> <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<img src="https://github.com/microsoft.png?size=64" width="22" height="22" align="absmiddle" alt="microsoft"/>&nbsp;<b><a href="https://github.com/microsoft/agent-framework">agent-framework</a></b>&nbsp;<img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
 <sub>Microsoft's agent SDK · Python</sub>
 <br/><br/>
 3 merged fixes to model clients. A boto3 session set to <code>eu-west-1</code> was sent to <code>us-east-1</code> with no error. Mistral and Gemini now respect an injected SDK client.
@@ -31,17 +30,15 @@
 <a href="https://github.com/microsoft/agent-framework/pull/9967"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9967?label=%239967&style=flat-square" alt="#9967"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9968"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9968?label=%239968&style=flat-square" alt="#9968"/></a> <a href="https://github.com/microsoft/agent-framework/pull/9969"><img src="https://img.shields.io/github/pulls/detail/state/microsoft/agent-framework/9969?label=%239969&style=flat-square" alt="#9969"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/vercel.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/vercel/next.js">vercel/next.js</a></b> <img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
-<sub>React framework · TypeScript</sub>
+<img src="https://github.com/vercel.png?size=64" width="22" height="22" align="absmiddle" alt="vercel"/>&nbsp;<b><a href="https://github.com/vercel/next.js">next.js</a></b>&nbsp;<img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
+<sub>Vercel's React framework · TypeScript</sub>
 <br/><br/>
 App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad <code>Range</code>. They now keep the 4xx status.
 <br/><br/>
 <a href="https://github.com/vercel/next.js/pull/101188"><img src="https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square" alt="#101188"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/openclaw.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<img src="https://github.com/openclaw.png?size=64" width="22" height="22" align="absmiddle" alt="openclaw"/>&nbsp;<b><a href="https://github.com/openclaw/openclaw">openclaw</a></b>&nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
 <sub>AI assistant · 390K+ stars · TypeScript</sub>
 <br/><br/>
 4 fixes across IRC, LINE, formatting and the dashboard. A fallback IRC nick grew past the 30-character limit. Sizes like "1024 KiB" now roll over to "1.0 MiB".
@@ -51,17 +48,15 @@ App Router-only builds returned 500 for client errors Next.js raised itself, suc
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/JetBrains.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/JetBrains/thinkrail">JetBrains/thinkrail</a></b> <img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
-<sub>Agentic IDE · TypeScript · WSL</sub>
+<img src="https://github.com/JetBrains.png?size=64" width="22" height="22" align="absmiddle" alt="JetBrains"/>&nbsp;<b><a href="https://github.com/JetBrains/thinkrail">thinkrail</a></b>&nbsp;<img src="https://img.shields.io/github/stars/JetBrains/thinkrail?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
+<sub>JetBrains' agentic IDE · TypeScript · WSL</sub>
 <br/><br/>
 Editor lookup scanned a slow WSL <code>PATH</code> on the event loop and froze the host for seconds. "Reveal in file manager" opened a hidden Explorer window on Windows.
 <br/><br/>
 <a href="https://github.com/JetBrains/thinkrail/pull/1158"><img src="https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1158?label=%231158&style=flat-square" alt="#1158"/></a> <a href="https://github.com/JetBrains/thinkrail/pull/1159"><img src="https://img.shields.io/github/pulls/detail/state/JetBrains/thinkrail/1159?label=%231159&style=flat-square" alt="#1159"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/Nano-Collective.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/Nano-Collective/nanocoder">Nano-Collective/nanocoder</a></b> <img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<img src="https://github.com/Nano-Collective.png?size=64" width="22" height="22" align="absmiddle" alt="Nano-Collective"/>&nbsp;<b><a href="https://github.com/Nano-Collective/nanocoder">nanocoder</a></b>&nbsp;<img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
 <sub>Open coding agent · TypeScript</sub>
 <br/><br/>
 2 merged fixes: MCP tool results kept only the first content block, and <code>string_replace</code> missed matches in CRLF files. Also an XSS fix in the VS Code webview.
@@ -69,8 +64,7 @@ Editor lookup scanned a slow WSL <code>PATH</code> on the event loop and froze t
 <a href="https://github.com/Nano-Collective/nanocoder/pull/1960"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square" alt="#1960"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1961"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square" alt="#1961"/></a> <a href="https://github.com/Nano-Collective/nanocoder/pull/1927"><img src="https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square" alt="#1927"/></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/HKUDS.png?size=64" width="32" height="32" alt=""/><br/>
-<b><a href="https://github.com/HKUDS/DeepTutor">HKUDS/DeepTutor</a></b> <img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85&color=4F46E5" alt="stars"/><br/>
+<img src="https://github.com/HKUDS.png?size=64" width="22" height="22" align="absmiddle" alt="HKUDS"/>&nbsp;<b><a href="https://github.com/HKUDS/DeepTutor">DeepTutor</a></b>&nbsp;<img src="https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&label=%E2%98%85&color=4F46E5" align="absmiddle" alt="stars"/><br/>
 <sub>AI tutor · Python · LLMs</sub>
 <br/><br/>
 3 merged LLM fixes. Reasoning-model replies broke lesson JSON. Strict gateways rejected replayed items. Long Claude Code prompts failed on Windows.
