@@ -19,7 +19,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 70 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 73 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
@@ -54,7 +54,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" alt=""/> Open-source contributions
 
-<img src="assets/oss.svg" width="100%" alt="70 pull requests · 21 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
+<img src="assets/oss.svg" width="100%" alt="73 pull requests · 22 projects · 140K+ stars on the largest repo · Microsoft, JetBrains and Vercel"/>
 
 <sub>PR status badges below update live from GitHub.</sub>
 
@@ -78,6 +78,8 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 |  | **Executor:** every batch after a replan asked for another replan over failures already handled. Handled failures are now skipped. | [![#9138](https://img.shields.io/github/pulls/detail/state/crewAIInc/crewAI/9138?label=%239138&style=flat-square)](https://github.com/crewAIInc/crewAI/pull/9138) |
 | [**calesthio/OpenMontage**](https://github.com/calesthio/OpenMontage) <br/> ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat-square&label=%E2%98%85) <br/> `Python` `ComfyUI` `FFmpeg` | The ComfyUI video tool reported request defaults as output metadata. It now reports the real values probed from the file. | [![#885](https://img.shields.io/github/pulls/detail/state/calesthio/OpenMontage/885?label=%23885&style=flat-square)](https://github.com/calesthio/OpenMontage/pull/885) |
 | [**tryAGI/LangChain**](https://github.com/tryAGI/LangChain) <br/> ![stars](https://img.shields.io/github/stars/tryAGI/LangChain?style=flat-square&label=%E2%98%85) <br/> `C#` `.NET` `RAG` | `AddDocumentsFrom*` helpers now take several data sources in one call for RAG ingestion. | [![#639](https://img.shields.io/github/pulls/detail/state/tryAGI/LangChain/639?label=%23639&style=flat-square)](https://github.com/tryAGI/LangChain/pull/639) |
+| [**lfnovo/open-notebook**](https://github.com/lfnovo/open-notebook) <br/> ![stars](https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat-square&label=%E2%98%85) <br/> `Python` `SurrealDB` | **Sources:** a delete that hit a SurrealDB conflict returned 200, but the source and its chunks stayed. Errors now raise, and conflicts are retried. | [![#1559](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1559?label=%231559&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1559) |
+|  | **Sources:** a NUL byte in a text source left a broken command row that stopped the worker. NUL bytes are now rejected before the row is written. | [![#1564](https://img.shields.io/github/pulls/detail/state/lfnovo/open-notebook/1564?label=%231564&style=flat-square)](https://github.com/lfnovo/open-notebook/pull/1564) |
 
 ### 🩺 Healthcare & medical imaging
 
@@ -110,6 +112,7 @@ I'm an **AI-enabled product engineer**. I start from the business problem, not t
 | [**Nano-Collective/nanocoder**](https://github.com/Nano-Collective/nanocoder) <br/> ![stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `VS Code API` `DOMPurify` | **Security:** the VS Code chat webview now sanitizes markdown and blocks remote images. This closes an XSS and tracking-pixel path. | [![#1927](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1927?label=%231927&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1927) |
 |  | **MCP:** only the first content block of a tool result was read. Every block is now formatted, in order. | [![#1960](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1960?label=%231960&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1960) |
 |  | **Edit tool:** `string_replace` missed matches in CRLF files. It now matches and keeps CRLF line endings. | [![#1961](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1961?label=%231961&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1961) |
+|  | **Write tool:** `write_file` turned a CRLF file into LF when it overwrote it. Line endings of CRLF files are now kept. | [![#1992](https://img.shields.io/github/pulls/detail/state/Nano-Collective/nanocoder/1992?label=%231992&style=flat-square)](https://github.com/Nano-Collective/nanocoder/pull/1992) |
 | [**vercel/next.js**](https://github.com/vercel/next.js) <br/> ![stars](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=%E2%98%85) <br/> `TypeScript` `Node.js` | App Router-only builds returned 500 for client errors Next.js raised itself, such as a bad param or a bad `Range`. They now keep the 4xx status. | [![#101188](https://img.shields.io/github/pulls/detail/state/vercel/next.js/101188?label=%23101188&style=flat-square)](https://github.com/vercel/next.js/pull/101188) |
 | [**handsome-rich/claude-buddy**](https://github.com/handsome-rich/claude-buddy) <br/> `JavaScript` `Electron` `PowerShell` | 10 PRs for a Claude Code desktop companion. A floating pet with status badges, tool-permission allow/deny, Windows autostart and a packaged-exe fix. | [#3–#13](https://github.com/handsome-rich/claude-buddy/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
 | [**Pienteger/Crow**](https://github.com/Pienteger/Crow) <br/> `C#` `.NET` `PowerShell` | 4 PRs for a build-cleanup CLI. `--ig` now protects removal targets, paths with spaces work, test teardown no longer fails, and a one-line installer. | [✅ #2–#5 merged](https://github.com/Pienteger/Crow/pulls?q=is%3Apr+author%3AMahdi-Hasan) |
