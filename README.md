@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Mehedi Hasan · Full-Stack Software &amp; Product Engineer · Senior Software Engineer @ CloudApper AI · 5+ years · 77 open-source PRs, 31 merged, 23 projects"/>
+<img src="assets/hero.svg" width="100%" alt="Mehedi Hasan · Full-Stack Software &amp; Product Engineer · Senior Software Engineer @ CloudApper AI · 5+ years · 74 open-source PRs, 31 merged, 23 projects"/>
 
 <img src="assets/terminal.svg" width="100%" alt="Merged PRs to microsoft/agent-framework, HKUDS/DeepTutor and ivmartel/dwv"/>
 
@@ -187,7 +187,7 @@ I'm a **full-stack software & product engineer**. I start from the business prob
 
 - 🎯 **How I work:** find where the workflow hurts, pick the simplest tech, measure the result.
 - 🏗️ **Full stack:** 5+ years of **C# / .NET** and **Python**, with **React**, **Angular** and **Vue** front ends.
-- 🌍 **Open source:** 77 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
+- 🌍 **Open source:** 74 PRs, including Microsoft, JetBrains, Vercel and healthcare AI (MONAI, OHIF, OpenEMR, dwv, PyHealth).
 - 🧭 **Product:** certified **AI-native Product Manager** (Pendo). I work AI-native with **Claude Code**.
 - 🎓 **Teaching:** mentor for the World Bank-backed **Edge Program**. Also lead small teams and mentor juniors.
 
